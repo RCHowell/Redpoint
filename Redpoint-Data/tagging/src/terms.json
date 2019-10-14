@@ -1,0 +1,101 @@
+[
+  {
+    "crack": ["crack"]
+  },
+  {
+    "cruxy": ["crux"]
+  },
+  {
+    "face": ["face"]
+  },
+  {
+    "roof": ["roof"]
+  },
+  {
+    "pocketed": ["pockets", "pocketed"]
+  },
+  {
+    "steep": ["steep"]
+  },
+  {
+    "bouldery": ["boulder", "problem"]
+  },
+  {
+    "slabby": ["slab"]
+  },
+  {
+    "juggy": ["jugs", "juggy"]
+  },
+  {
+    "arete": ["arete"]
+  },
+  {
+    "dihedral": ["dihedral"]
+  },
+  {
+    "crimpy": ["crimps"]
+  },
+  {
+    "thin": ["thin"]
+  },
+  {
+    "corner": ["corner"]
+  },
+  {
+    "flake": ["flake"]
+  },
+  {
+    "huecos": ["hueco"]
+  },
+  {
+    "technical": ["technical"]
+  },
+  {
+    "vertical": ["vertical"]
+  },
+  {
+    "chimney": ["chimney"]
+  },
+  {
+    "pumpy": ["pump", "endurance"]
+  },
+  {
+    "tricky": ["tricky"]
+  },
+  {
+    "classic": ["classic"]
+  },
+  {
+    "slopers": ["sloper", "slopey"]
+  },
+  {
+    "ledges": ["ledges"]
+  },
+  {
+    "sequential": ["sequence", "sequential"]
+  },
+  {
+    "pinches": ["pinches", "pinchy"]
+  },
+  {
+    "off-width": ["offwidth", "off-width"]
+  },
+  {
+    "sustained": ["sustained"]
+  },
+  {
+    "undercling": ["undercling"]
+  },
+  {
+    "layback": ["layback"]
+  },
+  {
+    "balancy": ["balance", "balancy"]
+  },
+  {
+    "stem": ["stem"]
+  },
+  {
+    "powerful": ["powerful"]
+  }
+]

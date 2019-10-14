@@ -1,0 +1,39 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Test Closure Builder",
+      "stopOnEntry": true,
+      "program": "${workspaceRoot}/transitive_closure_builder.js"
+    },
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Test Graph Building",
+        "stopOnEntry": true,
+        "program": "${workspaceRoot}/graph.js"
+      },
+      {
+        "type": "node",
+        "name": "Visual Test Route",
+        "request": "launch",
+        "stopOnEntry": true,
+        "args": [
+          "/v/wicked-games/106062725"
+        ],
+        "program": "${workspaceRoot}/tests/route.js"
+      },
+      {
+        "type": "node",
+        "name": "Visual Test Area",
+        "request": "launch",
+        "stopOnEntry": true,
+        "args": [
+          "/area/108387175/the-bears-den"
+        ],
+        "program": "${workspaceRoot}/tests/area.js"
+      }
+    ]
+  }

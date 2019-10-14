@@ -1,0 +1,13 @@
+.DS_Store
+.atom/
+.idea
+.packages
+.pub/
+build/
+doc/
+ios/.generated/
+packages
+pubspec.lock
+.flutter-plugins
+copyright.png
+icon.psd
