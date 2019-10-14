@@ -1,20 +1,26 @@
 # Redpoint
 
+This is a Flutter app. You can build and install it on your Android or iOS device using the Flutter cli.
+
 ## TODOs
-- (DATA) - Add GPS location per wall
 - (DATA) Add stats about wall angle and sun / weather
 - (REFACTOR) Improve how sport/trad/other colors are determined
 - Remove CLOSED areas from the database
 - Create a locations table linked to places
 
-## DONE
+## Features
+- Offline images
+  - Save images for a particular crag. You get the benefit of offline images, but can save a lot of storage space!
+  - Caching of inidivdual images for routes you view so you don't have to download a whole area
+- Offline maps & live GPS
+  - Topographical maps of the Red River Gorge with GPS tracking for 
 - Fast search
-- Allow saving images offline
-
+- Red River Climbing quicklinks
+- Bookmark your favorite crags
 
 ## Offline Map Tiles
-Use the [flutter_maps](https://pub.dartlang.org/packages/flutter_map) package, I will display offline
-maps of the Slade Kentucky area to be used in the Redpoint application
+I use the [flutter_maps](https://pub.dartlang.org/packages/flutter_map) package to display offline
+maps of the gorge.
 
 ### How To
 1. Install TileMill
