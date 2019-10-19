@@ -9,8 +9,8 @@ This directory contains the [Flutter](https://flutter.dev) app for Redpoint.
 - Create a locations table linked to places
 
 ## Offline Map Tiles
-Use the [flutter_maps](https://pub.dartlang.org/packages/flutter_map) package, I will display offline
-maps of the Slade Kentucky area to be used in the Redpoint application
+I use the [flutter_maps](https://pub.dartlang.org/packages/flutter_map) package to display offline
+maps of the gorge.
 
 ### How To
 1. Install TileMill

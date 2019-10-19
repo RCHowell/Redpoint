@@ -6,7 +6,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
   // Google Maps key initialization
-  // [GMSServices provideAPIKey:@"AIzaSyBq1G4N7HoaABifSyaB6Ud7WYIwiTpE3Us"];
   [GeneratedPluginRegistrant registerWithRegistry:self];
   // Override point for customization after application launch.
   return [super application:application didFinishLaunchingWithOptions:launchOptions];
