@@ -1,8 +1,5 @@
 # Redpoint
 
-![demo](images/demo1.gif | width=256)
-![demo](images/demo2.gif | width=256)
-
 ## Goal
 Create an iOS & Android application to serve as an offline guidebook to the Red River Gorge
 
@@ -32,3 +29,6 @@ Optionally, you can build the apk for Android and sideload it.
 
 ## Screenshots
 ![screenshots](images/screenshots.png)
+
+![demo](images/demo1.gif)
+![demo](images/demo2.gif)
