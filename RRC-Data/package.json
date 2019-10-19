@@ -1,0 +1,43 @@
+{
+  "name": "rrc-scraping",
+  "description": "Scripts for stickin it to Ray Ellington otherwise know as THE MAN",
+  "author": {
+    "name": "R. C. Howell",
+    "email": "rhowell2@nd.edu",
+    "url": "http://rchowell.com"
+  },
+  "version": "1.0.0",
+  "scripts": {
+    "clean": "rm -r ./tmp && mkdir ./tmp",
+    "test": "node_modules/.bin/mocha --reporter spec ./tests/**/*_test.js",
+    "doc": "node_modules/.bin/docco -c assets/github-markdown.css -o docs -l classic {./*.js,lib/*.js}"
+  },
+  "dependencies": {
+    "firebase-admin": "^5.12.1",
+    "firebase-functions": "^1.0.3",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "ramda": "^0.25.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "sql-escape": "^1.0.1",
+    "stream-buffers": "^3.0.2",
+    "transduce": "^0.10.2",
+    "transduce-stream": "^0.5.0",
+    "tsv": "^0.2.0",
+    "x-ray": "2.3.3"
+  },
+  "devDependencies": {
+    "better-assert": "1.0.2",
+    "chai": "4.1.2",
+    "docco": "^0.8.0",
+    "eslint-config-airbnb-base": "12.0.0",
+    "eslint-plugin-import": "2.7.0",
+    "eslint": "^4.6.0",
+    "mocha": "5.2.0"
+  },
+  "private": true,
+  "engines": {
+    "node": "6.14.x"
+  }
+}

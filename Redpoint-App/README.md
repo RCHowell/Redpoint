@@ -1,16 +1,12 @@
-# Redpoint
+# Redpoint-App
 
-## TODOs
-- (DATA) - Add GPS location per wall
+This directory contains the [Flutter](https://flutter.dev) app for Redpoint.
+
+## Improvements
 - (DATA) Add stats about wall angle and sun / weather
 - (REFACTOR) Improve how sport/trad/other colors are determined
 - Remove CLOSED areas from the database
 - Create a locations table linked to places
-
-## DONE
-- Fast search
-- Allow saving images offline
-
 
 ## Offline Map Tiles
 Use the [flutter_maps](https://pub.dartlang.org/packages/flutter_map) package, I will display offline
@@ -20,7 +16,7 @@ maps of the Slade Kentucky area to be used in the Redpoint application
 1. Install TileMill
 2. Follow these steps for OSM Bright - [link](https://tilemill-project.github.io/tilemill/docs/guides/osm-bright-mac-quickstart/)
 3. Export Map Tiles
-3. Use mbtilesToPng [link](https://github.com/alfanhui/mbtilesToPngs)
+4. Use mbtilesToPng [link](https://github.com/alfanhui/mbtilesToPngs)
 
 ### Lat,Lon Bounds
 Calculate the bounds with the following equation
