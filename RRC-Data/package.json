@@ -15,7 +15,7 @@
   "dependencies": {
     "firebase-admin": "^5.12.1",
     "firebase-functions": "^1.0.3",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "moment": "^2.22.2",
     "ramda": "^0.25.0",
     "request": "^2.87.0",
