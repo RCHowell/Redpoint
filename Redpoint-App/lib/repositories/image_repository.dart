@@ -12,7 +12,7 @@ class GetImageError extends Error {
 
 class ImageRepository {
 
-  CacheManager _cache;
+  DefaultCacheManager _cache;
   bool _initialized = false;
   Directory _docs;
 
@@ -21,7 +21,7 @@ class ImageRepository {
   }
 
   Future _initialize() async {
-    _cache = await CacheManager.getInstance();
+    _cache = DefaultCacheManager();
     _initialized = true;
     _docs = await getApplicationDocumentsDirectory();
   }
@@ -34,7 +34,7 @@ class ImageRepository {
       // File is not downloaded
       // Retrieve from cache, and put in cache if did not exist
       return _cache
-          .getFile(url)
+          .getSingleFile(url)
           .then((file) => file.readAsBytes())
           .catchError((e) => List<int>());
     } else {
@@ -54,7 +54,7 @@ class ImageRepository {
     if (FileSystemEntity.typeSync(path) == FileSystemEntityType.notFound) {
       // Retrieve from cache, and put in cache if did not exist
       try {
-        File file = await _cache.getFile(url);
+        File file = await _cache.getSingleFile(url);
         // Read bytes from the file in the cache
         List<int> bytes = await file.readAsBytes();
         // Write the byte data to application documents

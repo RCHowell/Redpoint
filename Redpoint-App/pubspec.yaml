@@ -2,20 +2,20 @@ name: red_point
 description: Red River Gorge Climbing Guide
 version: 0.2.0+3
 author: R. C. Howell
-homepage: http://rchowell.com
+homepage: http://rchowell.github.io
 
 dependencies:
   flutter:
     sdk: flutter
-  sqflite: any
-  path_provider: ^0.4.1
-  charts_flutter: ^0.4.0
-  url_launcher: ^3.0.3
-  cached_network_image: ^0.4.2
-  flutter_cache_manager: ^0.1.2
-  photo_view: ^0.0.8
-  shared_preferences: ^0.4.3
-  flutter_map: ^0.4.0
+  sqflite: ^1.3.1+1
+  path_provider: ^1.6.14
+  charts_flutter: ^0.9.0
+  url_launcher: ^5.5.3
+  cached_network_image: ^2.3.2+1
+  flutter_cache_manager: ^1.4.2
+  photo_view: ^0.10.2
+  shared_preferences: ^0.5.10
+  flutter_map: ^0.10.1+1
   geolocator: #^3.0.0
     git:
       url: git://github.com/yannickvg/flutter-geolocator
@@ -24,7 +24,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_launcher_icons: ^0.7.0
+  flutter_launcher_icons: ^0.8.0
 
 flutter:
 
@@ -37,86 +37,6 @@ flutter:
   # this "flutter" section, as in:
   assets:
     - assets/db.sqlite3
-#    High Level Maps
-    - assets/map/11/546/
-    - assets/map/11/547/
-    - assets/map/11/548/
-    - assets/map/11/549/
-    - assets/map/12/1093/
-    - assets/map/12/1094/
-    - assets/map/12/1095/
-    - assets/map/12/1096/
-    - assets/map/12/1097/
-    - assets/map/12/1098/
-#    Maps Level 13
-    - assets/map/13/2187/
-    - assets/map/13/2188/
-    - assets/map/13/2189/
-    - assets/map/13/2190/
-    - assets/map/13/2191/
-    - assets/map/13/2192/
-    - assets/map/13/2193/
-    - assets/map/13/2194/
-    - assets/map/13/2195/
-    - assets/map/13/2196/
-#    Maps Level 14
-    - assets/map/14/4374/
-    - assets/map/14/4375/
-    - assets/map/14/4376/
-    - assets/map/14/4377/
-    - assets/map/14/4378/
-    - assets/map/14/4379/
-    - assets/map/14/4380/
-    - assets/map/14/4381/
-    - assets/map/14/4382/
-    - assets/map/14/4383/
-    - assets/map/14/4384/
-    - assets/map/14/4385/
-    - assets/map/14/4386/
-    - assets/map/14/4387/
-    - assets/map/14/4388/
-    - assets/map/14/4389/
-    - assets/map/14/4390/
-    - assets/map/14/4391/
-    - assets/map/14/4392/
-#    Maps Level 15
-    - assets/map/15/8749/
-    - assets/map/15/8750/
-    - assets/map/15/8751/
-    - assets/map/15/8752/
-    - assets/map/15/8753/
-    - assets/map/15/8754/
-    - assets/map/15/8755/
-    - assets/map/15/8756/
-    - assets/map/15/8757/
-    - assets/map/15/8758/
-    - assets/map/15/8759/
-    - assets/map/15/8760/
-    - assets/map/15/8761/
-    - assets/map/15/8762/
-    - assets/map/15/8763/
-    - assets/map/15/8764/
-    - assets/map/15/8765/
-    - assets/map/15/8766/
-    - assets/map/15/8767/
-    - assets/map/15/8768/
-    - assets/map/15/8769/
-    - assets/map/15/8770/
-    - assets/map/15/8771/
-    - assets/map/15/8772/
-    - assets/map/15/8773/
-    - assets/map/15/8774/
-    - assets/map/15/8775/
-    - assets/map/15/8776/
-    - assets/map/15/8777/
-    - assets/map/15/8778/
-    - assets/map/15/8779/
-    - assets/map/15/8780/
-    - assets/map/15/8781/
-    - assets/map/15/8782/
-    - assets/map/15/8783/
-    - assets/map/15/8784/
-    - assets/map/15/8785/
 
   fonts:
     - family: Raleway

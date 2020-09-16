@@ -224,11 +224,11 @@ class HeroPhotoViewWrapper extends StatelessWidget {
         ),
         child: PhotoView(
           imageProvider: imageProvider,
-          loadingChild: loadingChild,
-          backgroundColor: backgroundColor,
+          loadingBuilder: (_, __) => loadingChild,
+          backgroundDecoration: BoxDecoration(color: backgroundColor),
           minScale: minScale,
           maxScale: maxScale,
-          heroTag: tag,
+          heroAttributes: PhotoViewHeroAttributes(tag: tag),
         ));
   }
 }

@@ -5,8 +5,6 @@ PODS:
   - FMDB/standard (2.7.5)
   - geolocator (3.0.0):
     - Flutter
-  - google_api_availability (2.0.0):
-    - Flutter
   - path_provider (0.0.1):
     - Flutter
   - permission_handler (2.2.0):
@@ -20,48 +18,44 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
-  - Flutter (from `/Users/rch/Projects/flutter/bin/cache/artifacts/engine/ios-release`)
-  - geolocator (from `/Users/rch/.pub-cache/git/flutter-geolocator-5057c178b9d74ff1098c88b53f36b847475c1a01/ios`)
-  - google_api_availability (from `/Users/rch/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.0/ios`)
-  - path_provider (from `/Users/rch/.pub-cache/hosted/pub.dartlang.org/path_provider-0.4.1/ios`)
-  - permission_handler (from `/Users/rch/.pub-cache/hosted/pub.dartlang.org/permission_handler-2.2.0/ios`)
-  - shared_preferences (from `/Users/rch/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.4.3/ios`)
-  - sqflite (from `/Users/rch/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.0/ios`)
-  - url_launcher (from `/Users/rch/.pub-cache/hosted/pub.dartlang.org/url_launcher-3.0.3/ios`)
+  - Flutter (from `Flutter`)
+  - geolocator (from `.symlinks/plugins/geolocator/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - FMDB
 
 EXTERNAL SOURCES:
   Flutter:
-    :path: "/Users/rch/Projects/flutter/bin/cache/artifacts/engine/ios-release"
+    :path: Flutter
   geolocator:
-    :path: "/Users/rch/.pub-cache/git/flutter-geolocator-5057c178b9d74ff1098c88b53f36b847475c1a01/ios"
-  google_api_availability:
-    :path: "/Users/rch/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.0/ios"
+    :path: ".symlinks/plugins/geolocator/ios"
   path_provider:
-    :path: "/Users/rch/.pub-cache/hosted/pub.dartlang.org/path_provider-0.4.1/ios"
+    :path: ".symlinks/plugins/path_provider/ios"
   permission_handler:
-    :path: "/Users/rch/.pub-cache/hosted/pub.dartlang.org/permission_handler-2.2.0/ios"
+    :path: ".symlinks/plugins/permission_handler/ios"
   shared_preferences:
-    :path: "/Users/rch/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.4.3/ios"
+    :path: ".symlinks/plugins/shared_preferences/ios"
   sqflite:
-    :path: "/Users/rch/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.0/ios"
+    :path: ".symlinks/plugins/sqflite/ios"
   url_launcher:
-    :path: "/Users/rch/.pub-cache/hosted/pub.dartlang.org/url_launcher-3.0.3/ios"
+    :path: ".symlinks/plugins/url_launcher/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
-  geolocator: 37f8bc488e1afd819454cb2ba142d29ed634eca5
-  google_api_availability: 80c105ad2c0ed01c18cf779653da2cb939518192
-  path_provider: 09407919825bfe3c2deae39453b7a5b44f467873
-  permission_handler: 0b2a5acb642be1ad2406adc31d0cda567b8b01e2
-  shared_preferences: 5a1d487c427ee18fcd3ea1f2a131569481834b53
-  sqflite: d1612813fa7db7c667bed9f1d1b508deffc56999
-  url_launcher: 92b89c1029a0373879933c21642958c874539095
+  geolocator: a703c90a10f13219bdbb7ab2bd21ad5582ccc960
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: 0fc6d6641c09e4bfd5541dd39b0f44c7e369aa6b
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  sqflite: 4001a31ff81d210346b500c55b17f4d6c7589dd0
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
 
-PODFILE CHECKSUM: cc70c01bca487bebd110b87397f017f3b76a89f1
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
 
-COCOAPODS: 1.5.2
+COCOAPODS: 1.9.1

@@ -26,7 +26,7 @@ class MiniMap extends StatelessWidget {
           }),
       layers: [
         TileLayerOptions(
-          offlineMode: true,
+          tileProvider: AssetTileProvider(),
           urlTemplate: "assets/map/{z}/{x}/{y}.png",
         ),
         MarkerLayerOptions(

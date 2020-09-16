@@ -180,18 +180,18 @@ class _OverviewState extends State<_Overview> {
     return ListView(
       children: <Widget>[
         // MAP
-        DividerTitle('Map'),
-        Container(
-          margin: EdgeInsets.symmetric(vertical: 6.0, horizontal: 14.0),
-          height: 200.0,
-          decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(4.0),
-            border: Border.all(
-              color: Colors.blueGrey[100],
-            ),
-          ),
-          child: MiniMap(_wall.id),
-        ),
+        // DividerTitle('Map'),
+        // Container(
+        //   margin: EdgeInsets.symmetric(vertical: 6.0, horizontal: 14.0),
+        //   height: 200.0,
+        //   decoration: BoxDecoration(
+        //     borderRadius: BorderRadius.circular(4.0),
+        //     border: Border.all(
+        //       color: Colors.blueGrey[100],
+        //     ),
+        //   ),
+        //   child: MiniMap(_wall.id),
+        // ),
         // DIRECTIONS
         DividerTitle('Directions'),
         CustomCard(

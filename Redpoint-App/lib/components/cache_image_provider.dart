@@ -1,10 +1,11 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:red_point/components/cache_image_configuration.dart';
 import 'package:red_point/repositories/image_repository.dart';
 import 'dart:ui' as ui show instantiateImageCodec, Codec;
 
 
-class CacheImageProvider extends ImageProvider<CacheImageProvider> {
+class CacheImageProvider extends ImageProvider<String> {
 
   String _url;
   ImageRepository _repo;
@@ -14,14 +15,11 @@ class CacheImageProvider extends ImageProvider<CacheImageProvider> {
   }
 
   @override
-  ImageStreamCompleter load(CacheImageProvider _url) {
-    return MultiFrameImageStreamCompleter(
-        codec: _loadAsync(),
-        scale: 1.0,
-        informationCollector: (StringBuffer information) {
-          information.writeln(_url);
-        }
-    );
+  ImageStreamCompleter load(String _url, DecoderCallback decode) {
+      return MultiFrameImageStreamCompleter(
+          codec: _loadAsync(),
+          scale: 1.0,
+      );
   }
 
   Future<ui.Codec> _loadAsync() async {
@@ -32,9 +30,15 @@ class CacheImageProvider extends ImageProvider<CacheImageProvider> {
   }
 
   @override
-  Future<CacheImageProvider> obtainKey(ImageConfiguration configuration) {
-    return SynchronousFuture<CacheImageProvider>(this);
+  Future<String> obtainKey(ImageConfiguration configuration) {
+    return SynchronousFuture("");
   }
+
+  // @override
+  // Future<CacheImageProvider> obtainKey(ImageConfiguration configuration) {
+  //   configuration.
+  //   return SynchronousFuture<CacheImageProvider>(this);
+  // }
 
 
 }
