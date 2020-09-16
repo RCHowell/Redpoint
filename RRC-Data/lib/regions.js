@@ -23,9 +23,7 @@ let regionCount = 0;
 
 const x = require('x-ray')({
   filters: {
-    // eslint-disable-next-line no-confusing-arrow
     trim: v => typeof v === 'string' ? v.trim() : v,
-    // eslint-disable-next-line no-plusplus, no-unused-vars
     getRegionName: _ => REGION_NAMES[regionCount++],
   },
 });

@@ -1,3 +1,8 @@
 Redpoint-Offline-Maps
 .DS_store
 
+*.iml
+*.ipr
+*.iws
+.idea/
+
