@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:red_point/components/bordered_section.dart';
 import 'package:red_point/components/divider_title.dart';
 import 'package:red_point/components/mini_map.dart';
 import 'package:red_point/pages/map_page.dart';
@@ -194,7 +195,7 @@ class _OverviewState extends State<_Overview> {
         // ),
         // DIRECTIONS
         DividerTitle('Directions'),
-        CustomCard(
+        BorderedSection(
           child: Text(
             _wall.directions,
             style: TextStyle(
@@ -206,22 +207,19 @@ class _OverviewState extends State<_Overview> {
         ),
         // STATS
         DividerTitle('Wall Stats'),
-        CustomCard(
+        BorderedSection(
           child: Column(
             children: <Widget>[
               SizedBox(
                 height: 140.0,
                 child: GradeHistogramDetailed(_wall.routes),
               ),
-            ],
-          ),
-        ),
-        CustomCard(
-          child: Column(
-            children: <Widget>[
-              SizedBox(
-                height: 140.0,
-                child: TypesChart(_wall.routes, animate: true),
+              Padding(
+                padding: const EdgeInsets.only(top: 18.0),
+                child: SizedBox(
+                  height: 140.0,
+                  child: TypesChart(_wall.routes, animate: true),
+                ),
               ),
             ],
           ),

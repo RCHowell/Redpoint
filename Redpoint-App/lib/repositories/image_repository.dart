@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'dart:convert';
+import 'dart:typed_data';
 import 'package:flutter_cache_manager/flutter_cache_manager.dart';
 import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
@@ -26,7 +27,7 @@ class ImageRepository {
     _docs = await getApplicationDocumentsDirectory();
   }
 
-  Future<List<int>> get(String url) async {
+  Future<Uint8List> get(String url) async {
     if (!_initialized) await _initialize();
     String filename = key(url);
     String path = join(_docs.path, filename);
@@ -36,7 +37,11 @@ class ImageRepository {
       return _cache
           .getSingleFile(url)
           .then((file) => file.readAsBytes())
-          .catchError((e) => List<int>());
+          .catchError((e) {
+            print("[ERROR] failed to fetch image from cache");
+            print(e);
+            return Future.value(Uint8List(0));
+          });
     } else {
       // File is downloaded. Retrieve its bytes
       print('File served from storage');

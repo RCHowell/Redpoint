@@ -1,3 +1,5 @@
+import 'dart:typed_data';
+
 import 'package:flutter/material.dart';
 import 'package:red_point/repositories/image_repository.dart';
 
@@ -33,19 +35,25 @@ class CacheImage extends StatefulWidget {
 
 class _CacheImageState extends State<CacheImage> {
   ImageRepository _repo;
-  List<int> _bytes;
+  Uint8List _bytes;
   bool _error;
 
   @override
   void initState() {
     super.initState();
-    _bytes = List();
+    _bytes = Uint8List(0);
     _error = false;
     _repo = ImageRepository();
-    _repo.get(widget.url).then(_handleImage);
+    _repo.get(widget.url)
+        .then(_handleImage)
+        .catchError((err) {
+          print("Error _repo.get in cache_image");
+          print(err);
+          _error = true;
+        });
   }
 
-  void _handleImage(List<int> bytes) {
+  void _handleImage(Uint8List bytes) {
     setState(() {
       if (bytes.isEmpty) _error = true;
       else _bytes = bytes;
