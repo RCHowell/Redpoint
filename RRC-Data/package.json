@@ -1,10 +1,10 @@
 {
   "name": "rrc-scraping",
-  "description": "Scripts for stickin it to Ray Ellington otherwise know as THE MAN",
+  "description": "Red River Climbing scraping scripts",
   "author": {
     "name": "R. C. Howell",
-    "email": "rhowell2@nd.edu",
-    "url": "http://rchowell.com"
+    "email": "rchowell19@gmail.com",
+    "url": "http://rchowell.github.io"
   },
   "version": "1.0.0",
   "scripts": {

@@ -31,7 +31,7 @@ class CacheImageProvider extends ImageProvider<String> {
 
   @override
   Future<String> obtainKey(ImageConfiguration configuration) {
-    return SynchronousFuture("");
+    return SynchronousFuture(_url);
   }
 
   // @override

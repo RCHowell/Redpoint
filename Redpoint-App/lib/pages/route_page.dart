@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:red_point/pages/gallery_page.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:red_point/models/route.dart' as R;
 import 'package:red_point/components/charts/donut_pie_chart.dart';
@@ -60,6 +61,18 @@ class _RoutePageState extends State<RoutePage>
             delegate: SliverChildListDelegate([
               _header(),
               _info(),
+              Padding(
+                padding: const EdgeInsets.only(
+                  right: 12.0,
+                  left: 12.0,
+                  top: 40.0,
+                  bottom: 20.0,
+                ),
+                child: Divider(
+                  height: 1.0,
+                  color: Colors.blueGrey[100],
+                ),
+              ),
               _location(),
             ]),
           ),
@@ -79,7 +92,6 @@ class _RoutePageState extends State<RoutePage>
 
   Widget _location() {
     return ListTile(
-      title: Text('About'),
       subtitle: Text(_route.location),
     );
   }
@@ -90,18 +102,15 @@ class _RoutePageState extends State<RoutePage>
               Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => HeroPhotoViewWrapper(
-                          imageProvider: CacheImageProvider(imgUrl),
-                          tag: imgUrl,
-                        ),
-                  ));
+                    fullscreenDialog: true,
+                    builder: (context) => GalleryPage(_route.images),
+              ));
             },
             child: Hero(
               tag: imgUrl,
               child: Container(
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(4.0),
-
                 ),
                 child: CacheImage(
                   url: imgUrl,
@@ -218,17 +227,13 @@ class HeroPhotoViewWrapper extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-        constraints: BoxConstraints.expand(
-          height: MediaQuery.of(context).size.height,
-        ),
-        child: PhotoView(
-          imageProvider: imageProvider,
-          loadingBuilder: (_, __) => loadingChild,
-          backgroundDecoration: BoxDecoration(color: backgroundColor),
-          minScale: minScale,
-          maxScale: maxScale,
-          heroAttributes: PhotoViewHeroAttributes(tag: tag),
-        ));
+    return PhotoView(
+      imageProvider: imageProvider,
+      loadingBuilder: (_, __) => loadingChild,
+      backgroundDecoration: BoxDecoration(color: backgroundColor),
+      minScale: minScale,
+      maxScale: maxScale,
+      heroAttributes: PhotoViewHeroAttributes(tag: tag),
+    );
   }
 }
