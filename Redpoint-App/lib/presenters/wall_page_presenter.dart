@@ -43,13 +43,9 @@ class WallPagePresenter {
     _wallRepository.toggleBookmark(_view.id).then(_view.onToggleBookMarkComplete);
   }
 
-  void sortRoutes(List<Route> routes, RouteSortingChoices choice) {
+  void sortRoutes(List<Route> routes, RouteSortingChoice choice) {
     assert (_view != null);
-    if (choice == RouteSortingChoices.alpha) routes.sort((a, b) => a.name.compareTo(b.name));
-    if (choice == RouteSortingChoices.l2r) routes.sort((a, b) => a.number.compareTo(b.number));
-    if (choice == RouteSortingChoices.r2l) routes.sort((a, b) => b.number.compareTo(a.number));
-    if (choice == RouteSortingChoices.stars) routes.sort((a, b) => b.stars.compareTo(a.stars));
-    if (choice == RouteSortingChoices.grade) routes.sort((a, b) => a.grade.gradeInt.compareTo(b.grade.gradeInt));
+    Route.sort(routes, choice);
     _view.onGetRoutesComplete(routes);
   }
 

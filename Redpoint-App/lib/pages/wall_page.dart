@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:red_point/components/bordered_section.dart';
 import 'package:red_point/components/divider_title.dart';
 import 'package:red_point/components/mini_map.dart';
+import 'package:red_point/components/route_sorting_popup_menu.dart';
+import 'package:red_point/models/route.dart';
 import 'package:red_point/pages/map_page.dart';
 import 'package:red_point/pages/route_page.dart';
 import 'package:red_point/components/charts/grade_histogram_detailed.dart';
@@ -48,7 +50,18 @@ class _WallPageState extends State<WallPage> implements WallPageViewContract {
               appBar: AppBar(
                 title: Text(_wall.name),
                 actions: <Widget>[
-                  _routeSortingPopupMenu(),
+                  RouteSortingPopupMenu(
+                    choices: [
+                      RouteSortingChoice.alpha,
+                      RouteSortingChoice.grade,
+                      RouteSortingChoice.stars,
+                      RouteSortingChoice.l2r,
+                      RouteSortingChoice.r2l,
+                    ],
+                    onSelected: (RouteSortingChoice choice) {
+                      _presenter.sortRoutes(_wall.routes, choice);
+                    },
+                  ),
                   _bookmarkButton(),
                 ],
                 bottom: TabBar(
@@ -77,66 +90,17 @@ class _WallPageState extends State<WallPage> implements WallPageViewContract {
 
   Widget _routeList() => ListView.builder(
         itemBuilder: (_, int i) => Column(
-              children: <Widget>[
-                RouteListTile(_wall.routes[i], () {
-                  Navigator.of(context).push(MaterialPageRoute(
-                    builder: (_) => RoutePage(_wall.routes[i], _wall.name),
-                  ));
-                }),
-                Divider(height: 2.0),
-              ],
-            ),
+          children: <Widget>[
+            RouteListTile(_wall.routes[i], () {
+              Navigator.of(context).push(MaterialPageRoute(
+                builder: (_) => RoutePage(_wall.routes[i], _wall.name),
+              ));
+            }),
+            Divider(height: 2.0),
+          ],
+        ),
         itemCount: _wall.routes.length,
       );
-
-  Widget _routeSortingPopupMenu() {
-    Color _color = Color.fromRGBO(160, 160, 160, 1.0);
-    return PopupMenuButton<R.RouteSortingChoices>(
-      icon: Icon(Icons.filter_list),
-      tooltip: 'Sort',
-      onSelected: (R.RouteSortingChoices choice) {
-        _presenter.sortRoutes(_wall.routes, choice);
-      },
-      itemBuilder: (BuildContext context) =>
-          <PopupMenuEntry<R.RouteSortingChoices>>[
-            PopupMenuItem<R.RouteSortingChoices>(
-              value: R.RouteSortingChoices.alpha,
-              child: ListTile(
-                leading: Icon(Icons.sort_by_alpha, color: _color),
-                title: Text('Alpha'),
-              ),
-            ),
-            PopupMenuItem<R.RouteSortingChoices>(
-              value: R.RouteSortingChoices.l2r,
-              child: ListTile(
-                leading: Icon(Icons.chevron_right, color: _color),
-                title: Text('Left to Right'),
-              ),
-            ),
-            PopupMenuItem<R.RouteSortingChoices>(
-              value: R.RouteSortingChoices.r2l,
-              child: ListTile(
-                leading: Icon(Icons.chevron_left, color: _color),
-                title: Text('Right to Left'),
-              ),
-            ),
-            PopupMenuItem<R.RouteSortingChoices>(
-              value: R.RouteSortingChoices.stars,
-              child: ListTile(
-                leading: Icon(Icons.star, color: _color),
-                title: Text('Stars'),
-              ),
-            ),
-            PopupMenuItem<R.RouteSortingChoices>(
-              value: R.RouteSortingChoices.grade,
-              child: ListTile(
-                leading: Icon(Icons.poll, color: _color),
-                title: Text('Grade'),
-              ),
-            ),
-          ],
-    );
-  }
 
   @override
   void onGetWallComplete(Wall wall) {

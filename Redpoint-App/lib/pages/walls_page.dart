@@ -76,7 +76,7 @@ class _WallsPageState extends State<WallsPage>
   Widget _sortingPopupMenu() {
     Color _color = Color.fromRGBO(160, 160, 160, 1.0);
     return PopupMenuButton<WallSortingChoices>(
-      icon: Icon(Icons.filter_list),
+      icon: Icon(Icons.sort),
       tooltip: 'Sort',
       onSelected: (WallSortingChoices choice) {
         _presenter.sortWalls(_walls, choice);

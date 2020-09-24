@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'dart:io';
 import 'package:path/path.dart';
+import 'package:red_point/models/filter.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:red_point/models/route.dart';
 import 'package:path_provider/path_provider.dart';
@@ -50,15 +51,24 @@ class SQLiteRouteRepository extends RouteRepository {
   }
 
   @override
-  Future<List<Route>> search(String substring) async {
+  Future<List<Route>> search(Filter f) async {
     if (!initialized) await this._initialize();
-    List<Map> results = await this.db.rawQuery('''
+
+    List<String> predicates = List();
+    if (f.term != "") predicates.add('r.name LIKE "%${f.term}%"');
+    if (f.types.isNotEmpty) predicates.add('r.type IN ("${f.types.join('","')}")');
+    predicates.add('r.grade_int >= ${f.minGrade}');
+    predicates.add('r.grade_int <= ${f.maxGrade}');
+
+    String query = '''
       SELECT r.*, w.name AS wall
       FROM walls_to_routes AS wr
       JOIN walls AS w ON w.wall_id = wr.wall_id
       JOIN routes AS r ON r.route_id = wr.route_id
-      WHERE r.name LIKE "%$substring%" LIMIT 50
-    ''');
+      WHERE ${predicates.join(" AND ")}
+      LIMIT 500
+    ''';
+    List<Map> results = await this.db.rawQuery(query);
     return results.map((Map result) {
       Route route = Route.fromMap(result);
       route.wall = result['wall'];

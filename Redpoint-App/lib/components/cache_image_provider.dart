@@ -1,6 +1,5 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:red_point/components/cache_image_configuration.dart';
 import 'package:red_point/repositories/image_repository.dart';
 import 'dart:ui' as ui show instantiateImageCodec, Codec;
 
