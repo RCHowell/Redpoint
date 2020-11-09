@@ -21,7 +21,8 @@ CREATE TABLE routes(
   location TEXT NOT NULL,
   number INT NOT NULL,
   grade_int INT NOT NULL,
-  images TEXT NOT NULL
+  images TEXT NOT NULL,
+  tick INT NOT NULL
 );
 
 CREATE TABLE regions_to_walls(

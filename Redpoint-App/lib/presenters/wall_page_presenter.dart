@@ -9,6 +9,7 @@ abstract class WallPageViewContract {
   void onGetWallComplete(Wall wall);
   void onGetRoutesComplete(List<Route> routes);
   void onToggleBookMarkComplete(bool isBookmarked);
+  void onSetTickComplete(int index);
 }
 
 class WallPagePresenter {
@@ -47,6 +48,12 @@ class WallPagePresenter {
     assert (_view != null);
     Route.sort(routes, choice);
     _view.onGetRoutesComplete(routes);
+  }
+
+  void setTick(int index, Route route) {
+    assert (_view != null);
+    _routeRepository.setTick(route.id, !route.tick)
+        .then((_) => _view.onSetTickComplete(index));
   }
 
 }

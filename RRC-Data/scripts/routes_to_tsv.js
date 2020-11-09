@@ -48,7 +48,8 @@ const toTSV = (route) => {
   line += `${clean(route.location)}\t`;
   line += `${route.number}\t`;
   line += `${getGradeInt(route.grade)}\t`;
-  line += `${imagesStr(route.images)}`;
+  line += `${imagesStr(route.images)}\t`;
+  line += `0`;
   console.log(line);
 };
 

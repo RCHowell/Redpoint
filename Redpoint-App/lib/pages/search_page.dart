@@ -229,7 +229,7 @@ class _FilterDialogState extends State<FilterDialog> {
             children: [
               DropdownButton<String>(
                 value: _minGrade,
-                items: Grade.INTS.keys
+                items: Grade.SORT_INTS.keys
                     .map((g) => DropdownMenuItem<String>(
                           value: g,
                           child: Text(g),
@@ -244,7 +244,7 @@ class _FilterDialogState extends State<FilterDialog> {
               Text('to'),
               DropdownButton<String>(
                 value: _maxGrade,
-                items: Grade.INTS.keys
+                items: Grade.SORT_INTS.keys
                     .map((g) => DropdownMenuItem<String>(
                           value: g,
                           child: Text(g),

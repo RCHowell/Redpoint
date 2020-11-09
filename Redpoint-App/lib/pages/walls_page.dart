@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:red_point/models/wall.dart';
+import 'package:red_point/pages/tick_page.dart';
 import 'package:red_point/presenters/walls_page_presenter.dart';
 import 'package:red_point/components/wall/wall_tile.dart';
 import 'package:red_point/components/wall/wall_list_tile.dart';
@@ -43,6 +44,7 @@ class _WallsPageState extends State<WallsPage>
                   ),
             ),
             actions: <Widget>[
+              _ticksButton(),
               _sortingPopupMenu(),
             ],
             bottom: TabBar(
@@ -70,6 +72,16 @@ class _WallsPageState extends State<WallsPage>
           )).then((_) => _presenter.getWalls());
         },
       );
+
+  Widget _ticksButton() => IconButton(
+    icon: Icon(Icons.bar_chart),
+    onPressed: () {
+      Navigator.of(context).push(MaterialPageRoute(
+        fullscreenDialog: true,
+        builder: (_) => TickPage(),
+      )).then((_) => _presenter.getWalls());
+    },
+  );
 
   Widget _loading() => Center(child: CircularProgressIndicator());
 

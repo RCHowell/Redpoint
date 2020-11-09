@@ -39,6 +39,7 @@ class Route {
   String name;
   String location;
   String wall;
+  bool tick;
 
   Route({
     this.id,
@@ -51,10 +52,11 @@ class Route {
     this.location,
     this.images,
     this.grade,
+    this.tick,
   });
 
   Route.fromMap(Map<String, dynamic> data)
-    : this.id = data['id'],
+    : this.id = data['route_id'],
       this.url = data['url'],
       this.number = data['number'],
       this.type = data['type'],
@@ -64,6 +66,7 @@ class Route {
       this.images = (data['images'] != null) ? parseImages(data['images']) : List<String>() {
     this.name = data['name']?.replaceAll('\\', '');
     this.location = data['location']?.replaceAll('\\', '');
+    this.tick = data['tick'] == 1;
   }
 
 
@@ -100,4 +103,6 @@ abstract class RouteRepository {
   Future<Route> get(int id);
   Future<List<Route>> getRoutesForWall(int id);
   Future<List<Route>> search(Filter f);
+  Future<void> setTick(int id, bool tick);
+  Future<List<Route>> getTicks();
 }

@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:red_point/components/bordered_section.dart';
 import 'package:red_point/components/divider_title.dart';
-import 'package:red_point/components/mini_map.dart';
 import 'package:red_point/components/route_sorting_popup_menu.dart';
 import 'package:red_point/models/route.dart';
-import 'package:red_point/pages/map_page.dart';
 import 'package:red_point/pages/route_page.dart';
 import 'package:red_point/components/charts/grade_histogram_detailed.dart';
 import 'package:red_point/components/custom_card.dart';
@@ -14,7 +12,6 @@ import 'package:red_point/models/route.dart' as R;
 import 'package:red_point/models/wall.dart';
 import 'package:red_point/presenters/wall_page_presenter.dart';
 import 'package:red_point/pages/download_images_page.dart';
-//import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 class WallPage extends StatefulWidget {
   final int id;
@@ -95,7 +92,7 @@ class _WallPageState extends State<WallPage> implements WallPageViewContract {
               Navigator.of(context).push(MaterialPageRoute(
                 builder: (_) => RoutePage(_wall.routes[i], _wall.name),
               ));
-            }),
+            }, () => _presenter.setTick(i, _wall.routes[i])),
             Divider(height: 2.0),
           ],
         ),
@@ -120,6 +117,13 @@ class _WallPageState extends State<WallPage> implements WallPageViewContract {
   void onToggleBookMarkComplete(bool isBookmarked) {
     setState(() {
       _wall.isBookmarked = isBookmarked;
+    });
+  }
+
+  @override
+  void onSetTickComplete(int i) {
+    setState(() {
+      _wall.routes[i].tick = !_wall.routes[i].tick;
     });
   }
 }

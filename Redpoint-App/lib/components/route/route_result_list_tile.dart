@@ -19,13 +19,31 @@ class RouteResultListTile extends StatelessWidget {
         size: 14.0,
       ));
 
+    List<TextSpan> _titleText = List();
+    if (route.tick) {
+      _titleText.add(TextSpan(
+        text: '\u{2022} ',
+        style: TextStyle(
+          fontSize: 20.0,
+          color: Colors.red,
+        ),
+      ));
+    }
+    _titleText.add(TextSpan(text: route.name));
+
     return Material(
       color: Colors.white,
       child: ListTile(
         onTap: onTap,
-        title: Text(
-          route.name,
-          maxLines: 1,
+        title: RichText(
+          text: TextSpan(
+            style: TextStyle(
+                color: Colors.blueGrey[800],
+                fontFamily: 'Nunito',
+                fontWeight: FontWeight.w500,
+                fontSize: 16.0),
+            children: _titleText,
+          ),
           overflow: TextOverflow.ellipsis,
         ),
         subtitle: Column(
