@@ -17,8 +17,8 @@ class RouteTile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     List<Widget> starList = _getStars(context);
-    TextStyle subheadStyle = Theme.of(context).textTheme.subhead;
-    Color red = Theme.of(context).accentColor;
+    TextStyle subheadStyle = Theme.of(context).textTheme.subtitle1;
+    Color red = Theme.of(context).primaryColor;
     TextStyle style = new TextStyle(
       fontFamily: subheadStyle.fontFamily,
       fontWeight: subheadStyle.fontWeight,
@@ -86,8 +86,8 @@ class RouteTile extends StatelessWidget {
   List<Widget> _getStars(BuildContext context) {
     List<Widget> stars = new List<Widget>();
     ThemeData theme = Theme.of(context);
-    Color color = theme.textTheme.body1.color;
-    double size = theme.textTheme.subhead.fontSize + 2;
+    Color color = theme.textTheme.bodyText1.color;
+    double size = theme.textTheme.subtitle1.fontSize + 2;
 
     // Round count to nearest half and decide which 5 icons to show
     double rounded = (this.route.stars * 2).round() / 2;
@@ -136,8 +136,8 @@ class SmallRouteTile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     List<Widget> starList = _getStars(context);
-    TextStyle subheadStyle = Theme.of(context).textTheme.subhead;
-    Color red = Theme.of(context).accentColor;
+    TextStyle subheadStyle = Theme.of(context).textTheme.subtitle1;
+    Color red = Theme.of(context).primaryColor;
     TextStyle style = new TextStyle(
       fontFamily: subheadStyle.fontFamily,
       fontWeight: subheadStyle.fontWeight,
@@ -200,8 +200,8 @@ class SmallRouteTile extends StatelessWidget {
   List<Widget> _getStars(BuildContext context) {
     List<Widget> stars = new List<Widget>();
     ThemeData theme = Theme.of(context);
-    Color color = theme.textTheme.body1.color;
-    double size = theme.textTheme.subhead.fontSize + 2;
+    Color color = theme.textTheme.bodyText1.color;
+    double size = theme.textTheme.subtitle1.fontSize + 2;
 
     // Round count to nearest half and decide which 5 icons to show
     double rounded = (this.route.stars * 2).round() / 2;

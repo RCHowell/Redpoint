@@ -16,8 +16,8 @@ class RouteListTile extends StatelessWidget {
 
     if (route.images.length > 0) starList.add(Icon(
       Icons.image,
-      color: theme.textTheme.body1.color,
-      size: theme.textTheme.subhead.fontSize + 2,
+      color: theme.textTheme.bodyText1.color,
+      size: theme.textTheme.subtitle1.fontSize + 2,
     ));
 
     List<TextSpan> _titleText = List();
@@ -58,7 +58,7 @@ class RouteListTile extends StatelessWidget {
     Chip chip = Chip(
       label: Text(
         route.grade.yds,
-        style: theme.textTheme.body1.copyWith(
+        style: theme.textTheme.bodyText1.copyWith(
           color: _getTypeTextColor(),
         ),
       ),
@@ -82,8 +82,8 @@ class RouteListTile extends StatelessWidget {
   List<Widget> _getStars(BuildContext context) {
     List<Widget> stars = new List<Widget>();
     ThemeData theme = Theme.of(context);
-    Color color = theme.textTheme.body1.color;
-    double size = theme.textTheme.subhead.fontSize + 2;
+    Color color = theme.textTheme.bodyText1.color;
+    double size = theme.textTheme.subtitle1.fontSize + 2;
 
     // Round count to nearest half and decide which 5 icons to show
     double rounded = (this.route.stars * 2).round() / 2;

@@ -167,7 +167,7 @@ class _SearchPageState extends State<SearchPage> implements SearchPageViewContra
           decoration: InputDecoration(
             border: InputBorder.none,
           ),
-          style: Theme.of(context).textTheme.body1.copyWith(
+          style: Theme.of(context).textTheme.bodyText1.copyWith(
                 color: Colors.white,
               ),
         ),

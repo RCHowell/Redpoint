@@ -12,7 +12,7 @@ class GradeHistogramDetailed extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     ThemeData theme = Theme.of(context);
-    Color themeRed = theme.accentColor;
+    Color themeRed = theme.primaryColor;
     charts.Color red = charts.Color(
       r: themeRed.red,
       g: themeRed.green,
@@ -71,7 +71,7 @@ class GradeHistogramDetailed extends StatelessWidget {
           tickLengthPx: 3,
           labelStyle: charts.TextStyleSpec(
             fontSize: 12,
-            fontFamily: theme.textTheme.body1.fontFamily,
+            fontFamily: theme.textTheme.bodyText1.fontFamily,
             color: charts.MaterialPalette.gray.shade400,
           ),
         ),

@@ -2,22 +2,6 @@
 
 This directory contains the [Flutter](https://flutter.dev) app for Redpoint.
 
-## Improvements
-- (DATA) Add stats about wall angle and sun / weather
-- (REFACTOR) Improve how sport/trad/other colors are determined
-- Remove CLOSED areas from the database
-- Create a locations table linked to places
-
-## Offline Map Tiles
-I use the [flutter_maps](https://pub.dartlang.org/packages/flutter_map) package to display offline
-maps of the gorge.
-
-### How To
-1. Install TileMill
-2. Follow these steps for OSM Bright - [link](https://tilemill-project.github.io/tilemill/docs/guides/osm-bright-mac-quickstart/)
-3. Export Map Tiles
-4. Use mbtilesToPng [link](https://github.com/alfanhui/mbtilesToPngs)
-
 ### Lat,Lon Bounds
 Calculate the bounds with the following equation
 ```

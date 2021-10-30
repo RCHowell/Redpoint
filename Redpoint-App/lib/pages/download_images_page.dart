@@ -75,7 +75,7 @@ class _DownloadImagesPageState extends State<DownloadImagesPage> {
           Container(
             margin: EdgeInsets.symmetric(vertical: 24.0),
             child: Text('There are ${_images.length} Images',
-                style: Theme.of(context).textTheme.subhead,
+                style: Theme.of(context).textTheme.subtitle1,
                 textAlign: TextAlign.center),
           ),
           Container(
@@ -102,7 +102,7 @@ class _DownloadImagesPageState extends State<DownloadImagesPage> {
           Container(
             child: Text(
               'Images may take up a lot of storage space',
-              style: Theme.of(context).textTheme.body1.copyWith(
+              style: Theme.of(context).textTheme.bodyText1.copyWith(
                     color: Theme.of(context).primaryColor,
                   ),
               textAlign: TextAlign.center,

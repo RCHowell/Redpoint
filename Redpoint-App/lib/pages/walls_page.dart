@@ -37,7 +37,7 @@ class _WallsPageState extends State<WallsPage>
             leading: _searchButton(),
             title: Text(
               'Redpoint',
-              style: Theme.of(context).textTheme.display1.copyWith(
+              style: Theme.of(context).textTheme.headline1.copyWith(
                     color: Colors.white,
                     fontStyle: FontStyle.italic,
                     fontSize: 24.0,
@@ -52,6 +52,7 @@ class _WallsPageState extends State<WallsPage>
                 Tab(icon: const Icon(Icons.insert_chart)),
                 Tab(icon: const Icon(Icons.bookmark)),
               ],
+              indicatorColor: Colors.white,
             ),
           ),
           body: TabBarView(

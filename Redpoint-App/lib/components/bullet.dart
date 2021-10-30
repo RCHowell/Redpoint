@@ -26,8 +26,8 @@ class Bullet extends StatelessWidget {
 
     ThemeData theme = Theme.of(context);
     Color dark = theme.scaffoldBackgroundColor;
-    Color red = theme.accentColor;
-    TextStyle subheadStyle = theme.textTheme.subhead;
+    Color red = theme.primaryColor;
+    TextStyle subheadStyle = theme.textTheme.subtitle1;
     Color bulletColor;
     Color textColor;
 

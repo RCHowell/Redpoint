@@ -15,7 +15,7 @@ class RouteResultListTile extends StatelessWidget {
     if (route.images.length > 0)
       starList.add(Icon(
         Icons.image,
-        color: theme.textTheme.body1.color,
+        color: theme.textTheme.bodyText1.color,
         size: 14.0,
       ));
 
@@ -62,7 +62,7 @@ class RouteResultListTile extends StatelessWidget {
     return Chip(
       label: Text(
         route.grade.yds,
-        style: theme.textTheme.body1.copyWith(
+        style: theme.textTheme.bodyText1.copyWith(
           color: _getTypeTextColor(),
         ),
       ),
@@ -85,7 +85,7 @@ class RouteResultListTile extends StatelessWidget {
   List<Widget> _getStars(BuildContext context) {
     List<Widget> stars = new List<Widget>();
     ThemeData theme = Theme.of(context);
-    Color color = theme.textTheme.body1.color;
+    Color color = theme.textTheme.bodyText1.color;
     double size = 14.0;
 
     // Round count to nearest half and decide which 5 icons to show

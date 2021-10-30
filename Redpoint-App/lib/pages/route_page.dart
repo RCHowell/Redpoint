@@ -128,14 +128,14 @@ class _RoutePageState extends State<RoutePage>
       child: ListTile(
         title: Text(
           _route.name,
-          style: theme.textTheme.subhead.copyWith(
+          style: theme.textTheme.subtitle1.copyWith(
             fontSize: 24.0,
           ),
         ),
         trailing: Chip(
           label: Text(
             _route.type,
-            style: theme.textTheme.body1.copyWith(
+            style: theme.textTheme.bodyText1.copyWith(
               color: _getTypeTextColor(),
             ),
           ),
@@ -158,7 +158,7 @@ class _RoutePageState extends State<RoutePage>
                 Text(
                   _route.grade.yds,
                   textAlign: TextAlign.right,
-                  style: theme.textTheme.subhead.copyWith(
+                  style: theme.textTheme.subtitle1.copyWith(
                     fontSize: 40.0,
                   ),
                 ),

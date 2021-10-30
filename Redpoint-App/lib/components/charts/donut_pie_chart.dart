@@ -13,7 +13,7 @@ class DonutPieChart extends StatelessWidget {
   Widget build(BuildContext context) {
 
     ThemeData theme = Theme.of(context);
-    Color themeRed = theme.accentColor;
+    Color themeRed = theme.primaryColor;
     charts.Color red = charts.Color(
       r: themeRed.red,
       g: themeRed.green,

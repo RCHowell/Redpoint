@@ -10,7 +10,7 @@ class CustomTitle extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    TextStyle style = Theme.of(context).textTheme.headline;
+    TextStyle style = Theme.of(context).textTheme.headline2;
     return Container(
         margin: const EdgeInsets.symmetric(horizontal: 2.0, vertical: 4.0),
         child: Text(

@@ -31,7 +31,7 @@ class _TickPageState extends State<TickPage> implements TickPageViewContract {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Ticks'),
+        title: Text('Saved'),
         centerTitle: true,
         actions: [
           RouteSortingPopupMenu(

@@ -11,8 +11,8 @@ class StarList {
   static List<Widget> get(num starCount, BuildContext context) {
     List<Widget> stars = List();
     ThemeData theme = Theme.of(context);
-    Color color = theme.textTheme.body1.color;
-    double size = theme.textTheme.subhead.fontSize + 2;
+    Color color = theme.textTheme.bodyText1.color;
+    double size = theme.textTheme.subtitle1.fontSize + 2;
 
     // Round count to nearest half and decide which 4 icons to show
     double rounded = (starCount * 2).round() / 2;
