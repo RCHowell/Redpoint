@@ -37,6 +37,9 @@ const imagesStr = images => images
   .toString();
 
 const toTSV = (route) => {
+  if (route.name === undefined) {
+    route.name = "Unknown"
+  }
   let line = '';
   line += `${route.id}\t`;
   line += `${clean(route.name)}\t`;

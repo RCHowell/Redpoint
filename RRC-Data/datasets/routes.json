@@ -14897,7 +14897,6 @@
   "location": "\n\nBegin on the previous line then sneak around the corner onto the face for a quick pump on good holds. \n\n\n"
 },{
   "number": 15,
-  "name": "Toro Piqueño",
   "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2716",
   "type": "Sport",
   "grade": "5.11a",
@@ -22414,7 +22413,6 @@
   "location": "\n\nThe attractive right-leaning corner on the extreme right side of the main wall before the Vomit roof. Cruxy start. \n\n\n"
 },{
   "number": 1,
-  "name": "Schrödinger Operator",
   "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2929",
   "type": "Toprope",
   "grade": "5.11",
@@ -34596,7 +34594,6 @@
   "location": "\n\nThe last route on the right before the arete for this section of the wall. Start with a couple of dirty moves, which quickly merge with power pulls on deep pockets culminating in a potentially desperate toss to a small hueco. As with the other lines on the wall if you can deal with the dirty start you will be rewarded with some great movement. \n\n\n"
 },{
   "number": 5,
-  "name": "Blake's arête",
   "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3161",
   "type": "Toprope",
   "grade": "Grade Unknown",
@@ -42373,6 +42370,3517 @@
   "stars": 5,
   "length": "65",
   "id": 3486,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 16,
+  "name": "Hen-ry!",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=80",
+  "type": "Sport",
+  "grade": "5.11b",
+  "stars": 3.92,
+  "length": "50",
+  "id": 41,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/hen-ry.jpg&w=165"
+  ],
+  "location": "\n\nThis route is located on a blunt arete 150 feet right of the previous three routes. Tiptoe and stretch through delicate moves to the anchors. \n\n\n"
+},{
+  "number": 47,
+  "name": "Pink Feat",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=64",
+  "type": "Mixed",
+  "grade": "5.11d",
+  "stars": 5,
+  "length": "120",
+  "id": 97,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4cbba6a0794f9&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/pinkfeat.jpg&w=165"
+  ],
+  "location": "\n\nThis route begins in the middle of the last face before the corner of the wall. Look for a U shaped ledge about ten feet up. Jump up to the ledge to start. Pull a tough mantel then continue up the technical face to a large ledge before the crack. Take a breather then crank through the fingercrack to another ledge. Continue up through a sketchy dihedral to anchors. \n\nCan also downclimb Green Gully for a descent. \n"
+},{
+  "number": 7,
+  "name": "Dead of Winter",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=92",
+  "type": "Trad",
+  "grade": "5.10b",
+  "stars": 4.5,
+  "length": "100",
+  "id": 17,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4bcb9b1659dba&w=165"
+  ],
+  "location": "\n\nThis route begins as an offwidth 100 feet left of Premature Burial. Climb the offwidth to a ledge and belay. Continue up the handcrack through a roof to the top. \n\n\n"
+},{
+  "number": 2,
+  "name": "When Push Comes to Shove",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3",
+  "type": "Trad",
+  "grade": "5.9+",
+  "stars": null,
+  "length": "120",
+  "id": 9,
+  "images": [],
+  "location": "\n\nAbout 200 yards left of Derby Day is this prominent dihedral. \n\n\n"
+},{
+  "number": 6,
+  "name": "Exhibition",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=8",
+  "type": "Trad",
+  "grade": "5.9-",
+  "stars": 2,
+  "length": "50",
+  "id": 6,
+  "images": [],
+  "location": "\n\nThis is the left facing dihedral seen near the road at the next sharp curve past the pulloff. \n\n\n"
+},{
+  "number": 4,
+  "name": "Heavy Mental",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=323",
+  "type": "Trad",
+  "grade": "5.9+",
+  "stars": null,
+  "length": "65",
+  "id": 139,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54bc7968d9d49&w=165"
+  ],
+  "location": "\n\nWalk left from Invisible Barrier to a handrack a few feet left of a dihedral. Climb the crack until it ends then finish on the face to the top. \n\n\n"
+},{
+  "number": 1,
+  "name": "Bushwhack Crack",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=191",
+  "type": "Trad",
+  "grade": "5.8+",
+  "stars": 3.75,
+  "length": "45",
+  "id": 211,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5840730ce54c8&w=165"
+  ],
+  "location": "\n\nThis route ascends the dihedral left of Blue Thunder. \n\nSame descent as for Blue Thunder. \n"
+},{
+  "number": 4,
+  "name": "Logic and Proportion",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=240",
+  "type": "Trad",
+  "grade": "5.10a",
+  "stars": 3.25,
+  "length": "60",
+  "id": 288,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/logicandproportion.jpg&w=165"
+  ],
+  "location": "\n\nLook for the plated face 40 feet left of Sam I Am. Climb the face making use of natural protection. Traverse right to rappel from the anchors on Sam I Am. \n\n\n"
+},{
+  "number": 12,
+  "name": "Purple Cleaning Company",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=256",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 1.88,
+  "length": "40",
+  "id": 296,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/purplecleaning.jpg&w=165"
+  ],
+  "location": "\n\nClimb the crack 100 feet right of Seuss Seuss Sudio to a ledge. Traverse right to rappel from a tree. \n\n\n"
+},{
+  "number": 16,
+  "name": "Seuss is Dead",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=260",
+  "type": "Trad",
+  "grade": "5.7",
+  "stars": 2.17,
+  "length": "40",
+  "id": 300,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/49b6fbfee6945&w=165"
+  ],
+  "location": "\n\nThis is the next crack in the dihedral 30 feet right of Fox in Locks. Lower from fixed gear. \n\n\n"
+},{
+  "number": 21,
+  "name": "Oh, The Places You'll Go",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2189",
+  "type": "Trad",
+  "grade": "5.8+",
+  "stars": 4,
+  "length": "70",
+  "id": 308,
+  "images": [],
+  "location": "\n\nTo get to this climb and The Oobleck, walk right from “One Fist …” until the cliff takes a 90 degree turn to the right. Go past a pretty, orange, chossy fingercrack that Johnny climbed, (approximately 5.10c, no anchors to clip or build) and continue for several hundred feet. Scramble up a gully and see this cool offwidth route. Climb up to the small roof, pull a funky move, then go to the top with armbars and chicken wings, or fist jams if you have long arms. \n\nNever gets sun. \n"
+},{
+  "number": 5,
+  "name": "Eye of the Storm",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=100",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 4,
+  "length": "90",
+  "id": 333,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4d1fcbf3d81a9&w=165"
+  ],
+  "location": "\n\nThis route is located 50 feet right from Shakedown Street and is marked by an obvious triangular roof about 30 feet up.\nClimb a crack up to the roof then step out right around the overhang and into a left-facing dihedral. Continue up the crack\nto a point where you can traverse right to some trees. Rappel from a tree to descend. \n\n\n"
+},{
+  "number": 4,
+  "name": "Over Easy",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=503",
+  "type": "Trad",
+  "grade": "5.7",
+  "stars": null,
+  "length": "30",
+  "id": 177,
+  "images": [],
+  "location": "\n\nThis is the short crack just left of the previous line. Scamper up to the roof, traverse left, then jam the dual cracks to the ledge. \n\nRap from a tree or tunnel through the wide crack on the ledge to the base of Blood on the Nuts and walk off. \n"
+},{
+  "number": 9,
+  "name": "Six Four Face",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2194",
+  "type": "Trad",
+  "grade": "5.9",
+  "stars": null,
+  "length": "60",
+  "id": 186,
+  "images": [],
+  "location": "\n\nClimb the first wide crack on the right side of the island. Rap from sling in middle of summit or scramble down through a hole in the island, coming out the other side. \n\n\n"
+},{
+  "number": 10,
+  "name": "Slimy Creatures",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=521",
+  "type": "Trad",
+  "grade": "5.7",
+  "stars": 3.19,
+  "length": "120",
+  "id": 188,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5c143adce6b84&w=165"
+  ],
+  "location": "\n\nFrom where the approach trail meets the island, hike around the left to the intersection with the main wall and then turn right, traverse the base for 100' to the large corner. Climb the crack in the corner, jamming, stemming and offwidthing when you must. \n\nBring two ropes or walk off to the right. \n"
+},{
+  "number": 12,
+  "name": "Blissoming Into Manhood",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=490",
+  "type": "Trad",
+  "grade": "5.9+",
+  "stars": null,
+  "length": "60",
+  "id": 194,
+  "images": [],
+  "location": "\n\nFrom the base of Bring Out the Gent, tunnel and squeeze through the crack to a tree covered ledge on the \"other side\". Turn around and offwidth up the corner, through a little bulge and then chimney to the top. \n\n\n"
+},{
+  "number": 15,
+  "name": "Curiosity",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=536",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 4.33,
+  "length": "40",
+  "id": 199,
+  "images": [],
+  "location": "\n\nFacing the Island, turn right and bushwack across the drainage to the next prominent buttress (500') Hike up a breakdown between the main wall and the aforementioned buttress to find this handcrack on your right. \n\n\n"
+},{
+  "number": 1,
+  "name": "Colonic Irrigation",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=769",
+  "type": "Trad",
+  "grade": "4th",
+  "stars": null,
+  "length": "60",
+  "id": 317,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 9,
+  "name": "Grilled Steak",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1632",
+  "type": "Trad",
+  "grade": "5.10b",
+  "stars": 3,
+  "length": "30",
+  "id": 325,
+  "images": [],
+  "location": "\n\nLeft of Green beans is an amazing but short overhanging offwidth flake. \n\nDone on toprope. \n"
+},{
+  "number": 11,
+  "name": "Whip It Out",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=117",
+  "type": "Sport",
+  "grade": "5.11d",
+  "stars": 2.64,
+  "length": "40",
+  "id": 240,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/whipitout.jpg&w=165"
+  ],
+  "location": "\n\nThis short bolted route is located 30 feet around the corner from Two Step. \n\n\n"
+},{
+  "number": 8,
+  "name": "Rock Rash",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=227",
+  "type": "Trad",
+  "grade": "5.9+",
+  "stars": 4.11,
+  "length": "80",
+  "id": 485,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/rockrash-new.jpg&w=165"
+  ],
+  "location": "\n\nThis route starts in a low overhang directly behind a tree before you come to a large rockhouse. Boulder the start and continue up the fist crack to the top. \n\n\n"
+},{
+  "number": 16,
+  "name": "Lost Soul",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=234",
+  "type": "Trad",
+  "grade": "5.9",
+  "stars": null,
+  "length": "50",
+  "id": 493,
+  "images": [],
+  "location": "\n\nThis route ascends the dihedral right of Mama Told Me Not To Come to some fixed slings. \n\nPreviously named \"Unknown\" \n"
+},{
+  "number": 18,
+  "name": "Bloody Fingers",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=236",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 3,
+  "length": "60",
+  "id": 495,
+  "images": [],
+  "location": "\n\nWalk 100 feet right of Grand Illusion past a couple of corners. Scramble to the top of some boulders and up a short slab to the base of this dihedral. Climb slightly friable rock to some slings at a ledge. \n\n\n"
+},{
+  "number": 19,
+  "name": "Mental Mantle",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=787",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": null,
+  "length": "50",
+  "id": 496,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 10,
+  "name": "Zambezi Plunge",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=147",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 3.07,
+  "length": "60",
+  "id": 423,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/zambezi.jpg&w=165"
+  ],
+  "location": "\n\nThis handcrack is located in a small dihedral 10 feet right of Scabies. Climb the crack to a ledge with a large boulder and tree. Continue through the offwidth to the anchors on Ju-Ju. \n\nFirst route completed at Pebble Beach. \n"
+},{
+  "number": 14,
+  "name": "Environmental Impact",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=151",
+  "type": "Trad",
+  "grade": "5.7",
+  "stars": 3.93,
+  "length": "130",
+  "id": 428,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bd7ae3aad0ac&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/460a83b30f962&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/environmental.jpg&w=165"
+  ],
+  "location": "\n\nThis route ascends the handcrack in the left-facing dihedral on the right side of the less than vertical face capped by a huge roof. 2 pitches \n\n\n"
+},{
+  "number": 2,
+  "name": "It's a Wonderful Life",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=164",
+  "type": "Sport",
+  "grade": "5.9",
+  "stars": 3.33,
+  "length": "80",
+  "id": 366,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4cc081234a889&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/49fe1df0c6230&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/wonderfulife.jpg&w=165"
+  ],
+  "location": "\n\nThis route ascends the arete on the front of the main pinnacle. \n\n5.9 R to the top if you wish to top the route out. \n"
+},{
+  "number": 5,
+  "name": "Symbol Man",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=177",
+  "type": "Bouldering",
+  "grade": "V6",
+  "stars": 5,
+  "length": "50",
+  "id": 372,
+  "images": [],
+  "location": "\n\nFollow the directions to When Doves Cry but walk all the way through the cave and start the crack where it begins in a wide chimney. Undercling the crack, fingerlock out the right roof crack and throw to a handjam in the left. Make your way up into the chimney for a rest then reach down into the starting fists of When Doves Cry and take it to the end. \n\nVery cool. No gear required. \n"
+},{
+  "number": 21,
+  "name": "Dave Cave",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=776",
+  "type": "Trad",
+  "grade": "5.1",
+  "stars": 1,
+  "length": "20",
+  "id": 392,
+  "images": [],
+  "location": "\n\nIn Gunsight Gully, find a pathway on the left which leads to a wide ledge above The Refrigerator. Chimney up and squeeze between two chockstones to the top. \n\n\n"
+},{
+  "number": 25,
+  "name": "Danger Mouse",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=183",
+  "type": "Sport",
+  "grade": "5.8",
+  "stars": 2.77,
+  "length": "35",
+  "id": 396,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4c9fa2a2ecd5a&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/dangermouse.jpg&w=165"
+  ],
+  "location": "\n\nThis is the bolted route just left of Don't Feed the Triceratops. \n\n\n"
+},{
+  "number": 31,
+  "name": "Welcome to Bosnia",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=188",
+  "type": "Trad",
+  "grade": "5.7",
+  "stars": 1.33,
+  "length": "70",
+  "id": 402,
+  "images": [],
+  "location": "\n\nThis route ascends the offwidth 80 feet left of The Refrigerator. \n\n\n"
+},{
+  "number": 1,
+  "name": "Boogered",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=203",
+  "type": "Trad",
+  "grade": "5.11+",
+  "stars": 5,
+  "length": "60",
+  "id": 338,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5f76f0e096a6d&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5f76f0a22f0aa&w=165"
+  ],
+  "location": "\n\nThis route climbs out the 10 foot roof at the right end of the wall. Scramble up to a ledge in the back of a cave and traverse out dirty ledges to access the crack. Climb the roof, pull the lip and finish in a dihedral. \n\nDownrated from 5.12a. \n"
+},{
+  "number": 5,
+  "name": "The Beeneling",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=360",
+  "type": "Trad",
+  "grade": "5.9+",
+  "stars": 4.55,
+  "length": "80",
+  "id": 503,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/50619312dc9c4&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5061925a3f20b&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/48d7005e37066&w=165"
+  ],
+  "location": "\n\nThis route ascends the acute dihedral to the right of What's Left of the Beeneling. Climb the left side of a boulder to access the ledge on which the route begins. Fingerlock and stem the dihedral until it thins. Then either smudge to the top or step right to the arete to find a hidden hold. \n\nRap from the top of Frenchburg Overhangs with two ropes. \n"
+},{
+  "number": 6,
+  "name": "Treason at the Watchtower",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2172",
+  "type": "Trad",
+  "grade": "5.9",
+  "stars": 2.67,
+  "length": "155",
+  "id": 504,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5930d3002a425&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/591b4b1a867fc&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/591b35b9af1dc&w=165"
+  ],
+  "location": "\n\nThis route is located on a bluff near Dunkan Rock. Located across the street from Fortress and Phantasia is this open corner of towering rock. From the road you should be able to identify a large pine tree on the left hand side of the cliff that is about 30 feet from the top. This is the belay station for the final pitch of this route.\nTo reach, follow directions for Dunkan Rock, but direct yourself one bluff south of Dunkan. Upon arriving at the bluff, walk around the left side until you spot a pair of cracks about 50 feet up. This is the start of the second pitch. Keep walking around left (north) side of bluff another 50 feet until you can scramble up a ramp that leads to your right. This begins the first pitch, which consists of a thin chimney to a large ledge (25 feet, 5.6). Pitch two starts in the left crack of the pair you can see from the ground and goes over a bulge, up a hand crack to a no hands rest in an alcove. Place pro in the top of the alcove, down climb a bit and traverse ten feet right to the adjacent crack the bottom of which has a tree. Build a hanging belay ten-twenty feet up the adjacent crack to protect you second from a potential pendulum (50 feet, 5.Cool. Pitch three, pull a short roof off bomber hand jams, trudge some sludge up and right to an easy, but wildly exposed, mantle. Set up a belay off the big pine tree (50 feet, 5.Cool. Pitch four, a slab face with three pieces of pro (and no more), top out the route to one of the very best views in the Gorge (30 feet, 5.9). Walk off or perform three raps to reach the start and keep your rope. \n\nThe GPS coordinates for the top of the route is N37'50.597\" W083'38.470\" \n"
+},{
+  "number": 8,
+  "name": "Cussin' Crack",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=331",
+  "type": "Trad",
+  "grade": "5.7",
+  "stars": 2.67,
+  "length": "65",
+  "id": 518,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/568b194b8de72&w=165"
+  ],
+  "location": "\n\nThis route ascends a wide, flaring, left-facing crack 20 feet left of Route 52. From the ledge, traverse left to the anchors on American Crack to descend. \n\n\"Blasphemous explitives abound whilst endeavoring to extirpate oneself from this inexorable condundrum\"\n-John Bronaugh, Red River Gorge Climbs, Second Edition \n"
+},{
+  "number": 8,
+  "name": "The Gauntlet",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=763",
+  "type": "Trad",
+  "grade": "5.10a",
+  "stars": null,
+  "length": "80",
+  "id": 573,
+  "images": [],
+  "location": "\n\nWalk right from Heartbreak of Psoriasis, past the offwidth, to a set of nice looking twin cracks. Begin the route by chimneying up to the roof. Undercling through the roof then pull around the lip to cleaner rock. Belay there to avoid rope drag. Continue up the left crack for a bit then shift over to the right crack for a ride to the top. \n\nVariation: Stay in the left crack the whole length of the route. 5.9 \n"
+},{
+  "number": 9,
+  "name": "One Thing Leads to Another",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=764",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 5,
+  "length": "100",
+  "id": 574,
+  "images": [],
+  "location": "\n\nWalk right from The Gauntlet to locate a right-leaning dihedral. If you reach another ampitheater then you've gone too far. Climb the dihedral to reach a plated orange face on the right. Continue up the face then step back into the crack towards the top when the crack shifts left. Climb over a bulge then continue to the top. \n\n\n"
+},{
+  "number": 8,
+  "name": "Perverse Intentions",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=368",
+  "type": "Sport",
+  "grade": "5.10a",
+  "stars": 2.34,
+  "length": "40",
+  "id": 554,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4398fe95e3787&w=165"
+  ],
+  "location": "\n\nThis is the bolted route directly left of the left-facing flake Grand Bazaar. \n\n\n"
+},{
+  "number": 1,
+  "name": "Sassafras Tease",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=754",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 4,
+  "length": "90",
+  "id": 507,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 2,
+  "name": "Data Dump",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1312",
+  "type": "Trad",
+  "grade": "5.10b",
+  "stars": 3,
+  "length": "80",
+  "id": 579,
+  "images": [],
+  "location": "\n\nThis route follows the left-facing dihedral 50 feet right of Logical Conclusion. \n\n\n"
+},{
+  "number": 4,
+  "name": "Subliminal Innovator",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1640",
+  "type": "Trad",
+  "grade": "5.11b",
+  "stars": 4,
+  "length": "55",
+  "id": 581,
+  "images": [],
+  "location": "\n\n15ft. to the right of the Bushwack Payoff is this thin, right facing dihedral. Climb the bouldery dihedral to a ledge and traverse 5ft. left to gain a handcrack that leads up a slabby dihedral. Take the wider crack to an anchor just below the massive roof. \n\n\n"
+},{
+  "number": 3,
+  "name": "Stratocaster",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=417",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 3,
+  "length": "150",
+  "id": 596,
+  "images": [],
+  "location": "\n\nThis route is located 75 feet right of Stinger, past an ugly dihedral and behind a tree. Climb through a couple of overhangs and belay. Follow a crack to the top of a flake, move over a bulge and into an alcove. Traverse right 50 feet along an unprotected ledge then up a short face to the top. \n\n\"R\" rated\nFA Second Pitch: John Bronaugh, Dirk Wiley, 1982 \n"
+},{
+  "number": 5,
+  "name": "DAB Chimney",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=419",
+  "type": "Trad",
+  "grade": "5.2",
+  "stars": 2.17,
+  "length": "30",
+  "id": 598,
+  "images": [],
+  "location": "\n\n This route ascends the short A-shaped chimney to the starting ledge for Dicey at Best. \n\n\n"
+},{
+  "number": 4,
+  "name": "Hidey Ho",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=438",
+  "type": "Trad",
+  "grade": "5.10a",
+  "stars": null,
+  "length": "175",
+  "id": 629,
+  "images": [],
+  "location": "\n\nThis route climbs a chimney system about 5 feet left of Lichen Lung Lunacy. Climb the short chimney to a ledge beneath a rockhouse then continue out a 25 foot roof. Pull the lip and follow a crack to a small belay hole. Head left on a short face to a crack which takes you back right to a belay ledge. Continue up a short slot to the top. \n\n\n"
+},{
+  "number": 9,
+  "name": "Layback Crack",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=443",
+  "type": "Trad",
+  "grade": "5.8-",
+  "stars": 3.64,
+  "length": "60",
+  "id": 634,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5e193d4196db3&w=165"
+  ],
+  "location": "\n\nThis is the obvious right-facing dihedral just left of Marmalade. Scramble up to a ledge to start. Pull over a low roof then make use of fists and armbars to the top. \n\n\n"
+},{
+  "number": 15,
+  "name": "Curving Crack",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=390",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 3.34,
+  "length": "80",
+  "id": 696,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/47d5a4dc5104b&w=165"
+  ],
+  "location": "\n\nWalk 40 feet right of Groundhog to locate this obtuse dihedral. Climb the flake to a perch 30 feet up, tackle a bulge and take the crack to a ledge. Finish on Caver's Route. \n\n\n"
+},{
+  "number": 20,
+  "name": "Wimp Out",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=395",
+  "type": "Trad",
+  "grade": "5.9",
+  "stars": 2.5,
+  "length": "150",
+  "id": 701,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/50b410f8c2b39&w=165"
+  ],
+  "location": "\n\nClimb 10 feet to a ledge on the right from the second belay of Caver's Route. Traverse 20 feet to a vertical crack and climb it to an alcove beneath Insanity Ceiling. Move left to belay then climb up to a small ledge left of the roof, traverse right to a tree then to the top. \n\n\n"
+},{
+  "number": 26,
+  "name": "No Brain, No Pain",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=401",
+  "type": "Bouldering",
+  "grade": "V1",
+  "stars": 2,
+  "length": "25",
+  "id": 707,
+  "images": [],
+  "location": "\n\nThis problem ascends the face right of the corner to a large ledge. \n\n\n"
+},{
+  "number": 34,
+  "name": "Bleak Future",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=409",
+  "type": "Trad",
+  "grade": "5.10d",
+  "stars": null,
+  "length": "80",
+  "id": 715,
+  "images": [],
+  "location": "\n\nThis route begins in a short, left-angling flake situated between Dog Days and Africa. Climb the flake, move right to some pockets, then head left to a ledge. Climb through some bulges to a right-facing dihedral under a roof. Move left around the roof, then back right over the roof on some pockets. Head up a blank section to the ledge. \n\n\n"
+},{
+  "number": 35,
+  "name": "Africa",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=410",
+  "type": "Trad",
+  "grade": "5.9",
+  "stars": 3.98,
+  "length": "80",
+  "id": 716,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/africa.jpg&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/43a4d52a9cab7&w=165"
+  ],
+  "location": "\n\nThis route ascends the obvious handcrack to the right of Dog Days. Belay at some fixed anchors or continue to the top. \n\nLook for some iron oxide resembling the continent of Africa at the base of the route. \n"
+},{
+  "number": 3,
+  "name": "Blue Unicorn",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1374",
+  "type": "Trad",
+  "grade": "5.7",
+  "stars": 1,
+  "length": "50",
+  "id": 622,
+  "images": [],
+  "location": "\n\nClimb the next crack 5 feet left of the previous line. \n\n\n"
+},{
+  "number": 4,
+  "name": "Nerd Gate",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1375",
+  "type": "Trad",
+  "grade": "5.7",
+  "stars": null,
+  "length": "70",
+  "id": 623,
+  "images": [],
+  "location": "\n\nWalk right from the window about 75 feet and past a vertical fingercrack to locate this line which begins on a slabby section. Climb the shallow crack to reach a hand crack about 10 feet up. Climb the hand crack past a short roof near the top. \n \n\n"
+},{
+  "number": 6,
+  "name": "Twin Cracks",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=902",
+  "type": "Trad",
+  "grade": "5.9+",
+  "stars": 2.92,
+  "length": "70",
+  "id": 761,
+  "images": [],
+  "location": "\n\n10 feet left of Day Dreaming on a face is a pair of cracks. Climb the right one until it thins, make a precarious move left to the other crack, then make your way to the ledge. \n\n\n"
+},{
+  "number": 17,
+  "name": "Tinker's Toy",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=912",
+  "type": "Toprope",
+  "grade": "5.8-",
+  "stars": null,
+  "length": "85",
+  "id": 772,
+  "images": [],
+  "location": "\n\n10 feet left of Scared As a Virgin.Climb small holds that improve after about 20 feet. Follow lichen-covered plates and juggy horizontals to the top. \n\n\n"
+},{
+  "number": 1,
+  "name": "Oberon",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1424",
+  "type": "Trad",
+  "grade": "5.10b",
+  "stars": 4.89,
+  "length": "65",
+  "id": 731,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/509bd6c9b8c28&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/50976375d2495&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4efb6c95679ac&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4399beb1b5157&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/43a0a99c2ece7&w=165"
+  ],
+  "location": "\n\nWalk left past an overhanging area until you reach a large pine near two cracks. This line ascends the stunning overhanging hand crack in the featureless dihedral. \n\n\n"
+},{
+  "number": 19,
+  "name": "Drug Pusher",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=486",
+  "type": "Trad",
+  "grade": "5.12a",
+  "stars": 2.75,
+  "length": "60",
+  "id": 798,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/568bbf44840ab&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5162dc8f73946&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5162dc7ae6140&w=165"
+  ],
+  "location": "\n\nWalk around the corner from the bolted routes and look for an 8 foot roof about 15 feet off the deck. Climb out the roof, pull into an offwidth and continue up the fingercrack to some fixed gear. \n\n\n"
+},{
+  "number": 20,
+  "name": "Blue Balls",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=487",
+  "type": "Trad",
+  "grade": "5.9",
+  "stars": 3,
+  "length": "60",
+  "id": 799,
+  "images": [],
+  "location": "\n\nThis route is located 20 feet right of Drug Pusher. Climb the chimney to a nice dihedral and past a couple of roofs to a ledge. \n\n\n"
+},{
+  "number": 13,
+  "name": "The Awful Width",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1452",
+  "type": "Toprope",
+  "grade": "5.8",
+  "stars": null,
+  "length": "50",
+  "id": 752,
+  "images": [],
+  "location": "\n\nClimb the wide dihedral on the right side of the buttress near the previous line. \n\n\n"
+},{
+  "number": 1,
+  "name": "Hamburger",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1428",
+  "type": "Trad",
+  "grade": "5.10b",
+  "stars": null,
+  "length": "60",
+  "id": 862,
+  "images": [],
+  "location": "\n\nLocate the first handcrack along the approach which is just left of a wide crack system. Climb the crack until it fades then traverse right to join up with Last Day. \n\n\n"
+},{
+  "number": 3,
+  "name": "Check Canopy",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1430",
+  "type": "Trad",
+  "grade": "5.7",
+  "stars": 5,
+  "length": "100",
+  "id": 864,
+  "images": [],
+  "location": "\n\nFrom Last Day, hike right to a small pinnacle near the main wall. Start on the pinnacle and climb a right-facing dihedral which switches corners and ends on a ledge. Belay from the ledge then continue up a left-angling crack which leads to a bit of face climbing to reach the top. \n\n\n"
+},{
+  "number": 7,
+  "name": "Chimney's Chimney - Closed",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1434",
+  "type": "Trad",
+  "grade": "5.2",
+  "stars": 3,
+  "length": "100",
+  "id": 868,
+  "images": [],
+  "location": "\n\nWalk around the end of the buttress to the south facing side of Chimney Top which faces Half Moon. Chimney up anywhere in the first and obvious crack to the top. \n\n\n"
+},{
+  "number": 6,
+  "name": "The Underling",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=508",
+  "type": "Trad",
+  "grade": "5.9",
+  "stars": 4.18,
+  "length": "100",
+  "id": 903,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5b3c164e6f727&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/516c9a1246879&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4f7b944c3d460&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4f7b941786396&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/43b95ceec14a7&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/underling.jpg&w=165"
+  ],
+  "location": "\n\nWalk to the right of the previous climbs and look for a large rockhouse with a hole in the back right corner. Climb the dihedral on the left side of the rockhouse, traverse under the roof and pull through the hole. Belay from anchors on the low ledge above. Continue up the left side of the rockhouse to a ledge with a tree and belay. Finish by climbing easier terrain to the top. \n\n\n"
+},{
+  "number": 5,
+  "name": "Joe Camel",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=564",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 2.39,
+  "length": "40",
+  "id": 829,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/joecamel.jpg&w=165"
+  ],
+  "location": "\n\nThis route ascends the handcrack in the right-facing dihedral 10 feet right of Smokin' Joe. \n\n\n"
+},{
+  "number": 9,
+  "name": "Goodstone",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=573",
+  "type": "Trad",
+  "grade": "5.10d",
+  "stars": 3.83,
+  "length": "80",
+  "id": 834,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4e53a6965ca5d&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4e53a66fc9827&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/48c71ab013eb8&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/goodstone.jpg&w=165"
+  ],
+  "location": "\n\nWalk 50 feet right from Go Easy Billy Clyde! to a pair of cracks about 20 feet apart. Begin by climbing the left of the two cracks until you can step out to a small ledge on the left face. Continue up the thin fingercrack and face to the top. \n\n\n"
+},{
+  "number": 20,
+  "name": "Appalachian Spring",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=584",
+  "type": "Sport",
+  "grade": "5.13a",
+  "stars": 5,
+  "length": "80",
+  "id": 847,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5462aefbd0f20&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/518f2defa6ed9&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/appalachian.jpg&w=165"
+  ],
+  "location": "\n\nThis route ascends the thin, bolted face 60 feet right of Flashlight. Scramble up to a ledge to begin. \n\n\n"
+},{
+  "number": 4,
+  "name": "Eclipse",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=986",
+  "type": "Toprope",
+  "grade": "5.9",
+  "stars": null,
+  "length": "90",
+  "id": 808,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5b2b35f6f293b&w=165"
+  ],
+  "location": "\n\nWalk left from the previous routes to the north side of the cliff which faces Chimney Top. The first climb you meet is an overhanging and left-facing dihedral. Climb the crack to its end, traverse right to easier face, and top out. \n\n\n"
+},{
+  "number": 5,
+  "name": "Honeymoon",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=987",
+  "type": "Trad",
+  "grade": "5.10a",
+  "stars": 4,
+  "length": "80",
+  "id": 809,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5b2b3abf58b71&w=165"
+  ],
+  "location": "\n\nLeft of Eclipse and 25 feet right of Full Moon is a crack system. Climb up easy rock to a dihedral which leads to a small roof. Move left to an arete, protect using small horizontals, then face climb up and right to a ledge. Traverse left to join the last pitch of Full Moon. \n\n\n"
+},{
+  "number": 11,
+  "name": "Ron's Garden",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=993",
+  "type": "Trad",
+  "grade": "5.6",
+  "stars": 3,
+  "length": "50",
+  "id": 815,
+  "images": [],
+  "location": "\n\nThis climb begins on the ledge above the first pitch of Rockhouse. Ascend the wide crack on the wall to the right. After reaching a ledge with a tree, chimney to the top. \n\n\n"
+},{
+  "number": 13,
+  "name": "It Ain't Over Yet",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=995",
+  "type": "Trad",
+  "grade": "5.8+",
+  "stars": 3,
+  "length": "60",
+  "id": 817,
+  "images": [],
+  "location": "\n\nThe next crack left of Scared Shitless begins as a thin crack and face problem. The remainder of the climb is a wide handcrack with some curious rock extrusions near the top. \n\n\n"
+},{
+  "number": 6,
+  "name": "Finger Filet",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1002",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 1,
+  "length": "50",
+  "id": 950,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/43b95391780c7&w=165"
+  ],
+  "location": "\n\nClimb a sharp flake 30 feet left of the previous climb. \n\nFFA: Unknown \n"
+},{
+  "number": 7,
+  "name": "What a Maroon",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1003",
+  "type": "Trad",
+  "grade": "5.10a",
+  "stars": null,
+  "length": "50",
+  "id": 951,
+  "images": [],
+  "location": "\n\nWalk left from Finger Filet to a conspicuous pointed boulder. Climb the hand and fingercrack just right of the boulder. \n\nFFA: Unknown \n"
+},{
+  "number": 36,
+  "name": "Into the Void",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=554",
+  "type": "Trad",
+  "grade": "5.10c",
+  "stars": null,
+  "length": "110",
+  "id": 938,
+  "images": [],
+  "location": "\n\nClimb the dihedral just left of Void Direct up to the ledge and belay from the bolt anchors on Void Direct. Continue up on the face to gain the large bombay chimney. Move right and undercling around a large chockstone then move up to a belay. \n\n\n"
+},{
+  "number": 1,
+  "name": "Auxier Chimney",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1409",
+  "type": "Trad",
+  "grade": "5.5",
+  "stars": 2.5,
+  "length": "90",
+  "id": 955,
+  "images": [],
+  "location": "\n\nThis line ascends the large crack in the southwest corner of the ridge near Haystack Rock. \n\n\n"
+},{
+  "number": 5,
+  "name": "Manhole",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1329",
+  "type": "Trad",
+  "grade": "5.4",
+  "stars": 3,
+  "length": "50",
+  "id": 968,
+  "images": [],
+  "location": "\n\nMove 30 feet left to a rockhouse with a crack that leads up through a hole. Climb up and pull through the hole to a ledge then continue up the crack to another ledge. \n\n\n"
+},{
+  "number": 1,
+  "name": "Weathering Heights",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1422",
+  "type": "Trad",
+  "grade": "5.3",
+  "stars": 2,
+  "length": "100",
+  "id": 977,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/55bf754e7408f&w=165"
+  ],
+  "location": "\n\nInstead of following the Double Arch Trail, follow another trail from the northeast end of the road which traverses a ridge toward Double Arch. Stop when you reach a buttress on the right then scramble down to a ledge. Walk left to locate a rappel anchor and lower to the base of the climb. Climb a chimney and jamcrack then traverse right to a short face which leads back to the top of the ridge. \n\n\n"
+},{
+  "number": 0,
+  "name": "At Death's Door",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=806",
+  "type": "Trad",
+  "grade": "5.10b",
+  "stars": 3,
+  "length": "60",
+  "id": 984,
+  "images": [],
+  "location": "\n\nThis isolated route is found on the cliff band to the south of the main buttress. From the walkdown, turn right (facing away from the rock) and hike for about 250 yards to another buttress crossing a ravine along the way. About 100 feet around the buttress, look for an overhanging handcrack. Climb up to a 10-foot roof that is about 15 feet above ground. Jam out the roof and go up a corner to fixed anchors below a second overhang. \n\n\n"
+},{
+  "number": 1,
+  "name": "Sinister Path",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3370",
+  "type": "Trad",
+  "grade": "5.8+",
+  "stars": 3,
+  "length": "75",
+  "id": 988,
+  "images": [],
+  "location": "\n\nThis high-quality left-facing dihedral awaits 30' right of Petty Theft. Start with a 60 feet of fun jamming and stemming, being sure to runner your pro long around the sharp edge of the low roof-slinging the tree out right can help direct your rope around this feature. At the top, dogleg left up a brilliant steep lieback corner on thin pro to gain a ledge and rap tree. \n\n\n"
+},{
+  "number": 6,
+  "name": "Suspended Sentence",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=804",
+  "type": "Trad",
+  "grade": "5.6",
+  "stars": 1.75,
+  "length": "120",
+  "id": 993,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4b3be157ad9f9&w=165"
+  ],
+  "location": "\n\nAbout 25 feet right of the main arete is a left-facing dihedral and crack system. Climb up to a ledge with trees and belay. Follow an obvious dihedral to the top. \n\n\n"
+},{
+  "number": 7,
+  "name": "Hard Labor",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=805",
+  "type": "Trad",
+  "grade": "5.10a",
+  "stars": 5,
+  "length": "120",
+  "id": 994,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4b3be1fa1fe29&w=165"
+  ],
+  "location": "\n\nWalk about 150 feet right of the main arete to a handcrack with a bouldery overhang at the bottom. Power over the lip to secure jams. Work up to a ledge below a slot and belay. Squeeze chimney as high as you can, then swing out and jam the exposed crack to the top of the cliff. \n\n\n"
+},{
+  "number": 2,
+  "name": "Second Pinnacle",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1420",
+  "type": "Trad",
+  "grade": "4th",
+  "stars": null,
+  "length": "50",
+  "id": 981,
+  "images": [],
+  "location": "\n\nChoose a line to reach the top of the second pinnacle. \n\n\n"
+},{
+  "number": 10,
+  "name": "Beers to Me",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3958",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": 2.67,
+  "length": "35",
+  "id": 1071,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5fca4d4645855&w=165"
+  ],
+  "location": "\n\nAn overhanging crimp boulder problem off the deck (V6) leads to 5.12- climbing up top. Located just to the right of the Beer Trailer's original route \"Beer Trailer.\" This is a great first 5.12c if you are lacking in fitness but consider yourself a boulderer. \n\n\n"
+},{
+  "number": 2,
+  "name": "Table Top",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=600",
+  "type": "Bouldering",
+  "grade": "V3",
+  "stars": 3.47,
+  "length": "0",
+  "id": 1024,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/474834e8950af&w=165"
+  ],
+  "location": "\n\nThis problem ascends the right side of the face of Friction Slab which faces you as you drive toward it from the rest area. Start near the arete (around the corner from The Bulldog) and throw to a right-hand gaston. Top it out and walk off. \n\n\n"
+},{
+  "number": 3,
+  "name": "Friction Slab 5.6",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=601",
+  "type": "Bouldering",
+  "grade": "V0",
+  "stars": 2.27,
+  "length": "20",
+  "id": 1025,
+  "images": [],
+  "location": "\n\nThis route ascends the right side of the front face of the Friction Slab. This is usually used to gain access to the bolt on top to set a toprope. The dirty chimney can be downclimbed. \n\n\n"
+},{
+  "number": 2,
+  "name": "Oz",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=604",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 3.48,
+  "length": "70",
+  "id": 1029,
+  "images": [],
+  "location": "\n\nThis is the next route to the left of Lollipop Kids and starts on the same ledge. \n\n\n"
+},{
+  "number": 1,
+  "name": "Nailbiter",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3489",
+  "type": "Sport",
+  "grade": "5.12-",
+  "stars": 5,
+  "length": "75",
+  "id": 1001,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 25,
+  "name": "Valor Over Discretion",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=662",
+  "type": "Sport",
+  "grade": "5.8",
+  "stars": 2.41,
+  "length": "50",
+  "id": 1237,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4dff91518c1e8&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4dece6c69323b&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4dece252185e4&w=165"
+  ],
+  "location": "\n\nStart this route by standing on the large boulder to the right of the 5.10 wall. Climb up the face a few feet right of the arete. Traverse left under the roof and step around the arete. Continue up to a ledge. \n\n\n"
+},{
+  "number": 46,
+  "name": "Strawberry Shortcake",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1093",
+  "type": "Trad",
+  "grade": "5.7",
+  "stars": 2.15,
+  "length": "60",
+  "id": 1259,
+  "images": [],
+  "location": "\n\n\n\nStart near All Cows Eat Grass, run out to first good gear (can clip bolts if you choose), move into handcrack near Ledger Line, using face holds when necessary. \n"
+},{
+  "number": 47,
+  "name": "Ledger Line",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=679",
+  "type": "Sport",
+  "grade": "5.7",
+  "stars": 2.98,
+  "length": "0",
+  "id": 1260,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/ledger.jpg&w=165"
+  ],
+  "location": "\n\nThis is the next bolted line just right of All Cows Eat Grass. Climb a thin start to reach the first bolt then move up on large ledges to the vertical face. Sink a handjam or two along the way while continuing up on smaller ledges to the anchors in a roof. \n\n\n"
+},{
+  "number": 28,
+  "name": "Centerfire",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=696",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 4.55,
+  "length": "75",
+  "id": 1183,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4ec71f057d973&w=165"
+  ],
+  "location": "\n\nThis is the bolted line 10 feet left of Bandolier. Boulder through a initial section to a stance. Continue up through pockets and crimps. \n\n\n"
+},{
+  "number": 22,
+  "name": "BabaBooey",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2610",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 3.37,
+  "length": "70",
+  "id": 1126,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/51bb280d00735&w=165"
+  ],
+  "location": "\n\nThis and the next line begin with several tough moves on small pockets and edges. Make it through the beginning and be rewarded with a nice long run on good holds. \n\n\n"
+},{
+  "number": 11,
+  "name": "Diablo",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2712",
+  "type": "Sport",
+  "grade": "5.11d",
+  "stars": 4.82,
+  "length": "75",
+  "id": 1478,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/523b77b680e29&w=165"
+  ],
+  "location": "\n\nThe route everyone will come here for. Furthest left on the steep wall. Begin with an entrance fee of a little bouldery move to reach the climbing that people travel from overseas for. Gigantic holds, big moves, and mega steep rock with a smack down anchor run. Originally equipped by Brian McCray in the late 90s. \n\n\n"
+},{
+  "number": 15,
+  "name": "Tip Off",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1034",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 4,
+  "length": "50",
+  "id": 2092,
+  "images": [],
+  "location": "\n\nWalk left from Dihedron until you come to some wooden plank steps. As soon as you start heading down the steps, look to your right to locate this bolted line which begins in a small dihedral. Climb the dihedral until it widens, then pull a boulder problem to gain the face above. \n\n\n"
+},{
+  "number": 6,
+  "name": "All This Useless Beauty",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1103",
+  "type": "Trad",
+  "grade": "5.10b",
+  "stars": 2.5,
+  "length": "110",
+  "id": 2112,
+  "images": [],
+  "location": "\n\n10 ft. Left of Hat trick. Boulder up the face and left into the crack, climb to the ledge, finish on slabs to the top. \n\n\n"
+},{
+  "number": 22,
+  "name": "Broke Back Finger",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2603",
+  "type": "Sport",
+  "grade": "5.12d",
+  "stars": 3.5,
+  "length": "60",
+  "id": 1566,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/51880fbc7db99&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/51880f86ea5e1&w=165"
+  ],
+  "location": "\n\n50 feet right of Gandee Candy and around a gentle corner. This and the next three climbs are on a ledge that overlooks the amphitheater of the Steep Wall. A tough bouldery line. \n\n\n"
+},{
+  "number": 28,
+  "name": "Rules of Engagement",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2552",
+  "type": "Sport",
+  "grade": "5.13a",
+  "stars": 4.63,
+  "length": "100",
+  "id": 1572,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52d80977b37f8&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52a617dfca9c4&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52a617cb7f3d9&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/528a1b1259910&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5134de4841864&w=165"
+  ],
+  "location": "\n\nRight of All that Twitters and starting at the left edge of the flat ledge. Excellent climbing with a few tough boulder problems. Especially challenging at the 4th bolt where your reach may dictate the difficulty of your sequence. Get a shake and tackle a fun undercling roof move. Diminishing holds topped off with an exciting sporty run for the last bolt. This route goes to the top of the cliff and doesn't stop at the rest by two side-by-side bolts. \n\n\n"
+},{
+  "number": 1,
+  "name": "Mentor",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3225",
+  "type": "Sport",
+  "grade": "5.11+",
+  "stars": 1.6,
+  "length": "45",
+  "id": 1851,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/545ba15e03307&w=165"
+  ],
+  "location": "\n\nMentor is the big brother to Mentee. Same enjoyable face climbing, but thinner and a bit more technical.\nHike up onto the ledge system that provides access to climbs such as Toker and No Redemption, etc.). Go to the very left end of this ledge system. Route starts just left the last crack (Gettin' Ziggy With It crack). \n\n\n"
+},{
+  "number": 10,
+  "name": "MILF Money",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1621",
+  "type": "Sport",
+  "grade": "5.13b",
+  "stars": 0,
+  "length": "60",
+  "id": 1865,
+  "images": [],
+  "location": "\n\nTough boulder problem to 5.9 choss. The line begins with tough pulls on very shallow pockets, then cuts directly right to meet up with climbing on sand for the remaining two-thirds of the route. The bolts may feel awkwardly placed if they haven't been shifted around yet. \n\nEquipped by Morgan Burton. \n"
+},{
+  "number": 23,
+  "name": "Tacit",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=970",
+  "type": "Sport",
+  "grade": "5.12a",
+  "stars": 3.9,
+  "length": "50",
+  "id": 1879,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5525f7ff52694&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4b08a88ca3c5d&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4496d0e3672c7&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4496d11784273&w=165"
+  ],
+  "location": "\n\nThe next route is five feet right of the previous route and has a similar description. Begin near a crack above a boulder. \n\n\n"
+},{
+  "number": 30,
+  "name": "Fungus Among Us",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2659",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": 4,
+  "length": "75",
+  "id": 1889,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/51f870c7602a0&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/51f8707628866&w=165"
+  ],
+  "location": "\n\nTechnical face climbing on sloping edges. \n\n\n"
+},{
+  "number": 18,
+  "name": "Bush League",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2380",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": 4.31,
+  "length": "80",
+  "id": 1431,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/567ad3ba943ef&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/558a1fe77efd7&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5031859768013&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5015e7e5afda2&w=165"
+  ],
+  "location": "\n\nLeft of Blowin' is the last line in the large amphitheater at the time and marked by an arete feature near the middle. Boulder the start then jug-swim up to the chains passing some decent rests which hopefully give you the juice needed for the end. Avoid the sand & choss in the upper hueco by hand-heel traversing right along the rail to clip the last bolt. \n\n\n"
+},{
+  "number": 6,
+  "name": "Nanotechnology",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2859",
+  "type": "Sport",
+  "grade": "5.11b",
+  "stars": 4.62,
+  "length": "70",
+  "id": 1709,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/560bf1fec44d4&w=165"
+  ],
+  "location": "\n\nThe cool wavy slab tucked in the corridor across from Belly of the Beast. Tiptoe and balance up some great 5.10 moves to a techy and insecure crux at the 5th bolt. Continue to the top via an interesting squeeze finish shared with Spread Eagle. \n\n\n"
+},{
+  "number": 4,
+  "name": "Mary Pop-Parazzi",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2275",
+  "type": "Sport",
+  "grade": "5.5",
+  "stars": 2.03,
+  "length": "25",
+  "id": 1376,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/507e1eb2989b8&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/506e35a7061e8&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/50068f5919efe&w=165"
+  ],
+  "location": "\n\nThe first short sport line encountered at Chica. To the right of Quicky. \n\n\n"
+},{
+  "number": 5,
+  "name": "Pocahontas Path",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2276",
+  "type": "Sport",
+  "grade": "5.7",
+  "stars": 2.25,
+  "length": "25",
+  "id": 1377,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/51d9a7861695a&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/506e3629bd573&w=165"
+  ],
+  "location": "\n\nThe next short sport line just right of Mary Pop-Parazzi. \n\n\n"
+},{
+  "number": 9,
+  "name": "Cold Hard Bitch",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3540",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 3.38,
+  "length": "40",
+  "id": 1383,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5c900608a0dfb&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5c0930bc3dd4a&w=165"
+  ],
+  "location": "\n\nBegins on arete between The Dude Abides and Helluva Caucasian. \n\n\n"
+},{
+  "number": 20,
+  "name": "Baby Blue Eyes",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2030",
+  "type": "Sport",
+  "grade": "5.10c",
+  "stars": 4.14,
+  "length": "75",
+  "id": 1394,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/45bd2417da36b&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/457ec572cb08d&w=165"
+  ],
+  "location": "\n\nThis is the next slab route beginning 15 feet right of Baby Blue Eyes and starts on a layback flake. Enjoy very fun and technical climbing to the anchors. First bolt is high, stick clip or boulder up moderate ground. Another bolt may be added after a few repeats. \n\n\n"
+},{
+  "number": 88,
+  "name": "Chocolate Myotis",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3520",
+  "type": "Sport",
+  "grade": "5.11d",
+  "stars": 2.83,
+  "length": "75",
+  "id": 1827,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/58e4f4426ce0c&w=165"
+  ],
+  "location": "\n\nNamed for Edwin's sick bat hang from one of the pockets during the FA. Start 5' right of Theobroma, climb the pocketed face to a ledge, turn the roof on crimps before moving right to a fun finish on small holds. \n\n\n"
+},{
+  "number": 1,
+  "name": "N4",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2368",
+  "type": "Sport",
+  "grade": "5.10c",
+  "stars": 2.55,
+  "length": "40",
+  "id": 1322,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5056665706e62&w=165"
+  ],
+  "location": "\n\nAfter taking the wooden steps up to the left towards Cannibus Love Generator, the trail splits just past a large tree. This and the next two routes can be found on an outcropping to the left.\nIt's not often when lines this short can be so much fun but this one pulled it off. 40 feet of fun with a nice solid crux at the third. \n\n\n"
+},{
+  "number": 18,
+  "name": "Buckwheats Climb for Stef",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2310",
+  "type": "Trad",
+  "grade": "5.6",
+  "stars": 2,
+  "length": "40",
+  "id": 1341,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52d6dc5d45c7c&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52d6dc4c1d417&w=165"
+  ],
+  "location": "\n\nFirst crack right of Turkey Crossing. Could be better if it were longer. \n\n\n"
+},{
+  "number": 2,
+  "name": "The Departure",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2424",
+  "type": "Sport",
+  "grade": "5.12",
+  "stars": 4,
+  "length": "80",
+  "id": 1287,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/50299e631777b&w=165"
+  ],
+  "location": "\n\nThe left line on the leaning pillar right of Catholics Traverse. Tough sloping boulder problems with difficult clips will have you struggling more than you ever have on a 12c. Best attempted in frigid temps for maximum friction. \n\n\n"
+},{
+  "number": 18,
+  "name": "American Dream",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=933",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 4.29,
+  "length": "65",
+  "id": 1305,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4c7efc7524173&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4c7efc43ed06c&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4c7efc1d93e3d&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4bfa7d653ebed&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4bfa7d4043861&w=165"
+  ],
+  "location": "\n\nThis is the lowest route on the ramp before the main staging area. Most people clip the second bolt to start. Climb up and pull a tough move at the 2nd bolt then continue up through sustained and pumpy climbing to the anchors. \n\n\n"
+},{
+  "number": 37,
+  "name": "Giblets",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2395",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 3.78,
+  "length": "65",
+  "id": 1646,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4ede95c1949a8&w=165"
+  ],
+  "location": "\n\nRight of Arachnophobia as the trail continues to Bob Marley Crag is a left offshoot leading shortly up to a slabby wall hosting several bolted lines. This is the leftmost line. Jam a short crack to reach a distorted hueco beneath the 3rd bolt. Step up onto the face to begin climbing through several cruxes requiring lots of foot switching and bitching about no holds. \n\n\n"
+},{
+  "number": 3,
+  "name": "Crude Awakening",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2199",
+  "type": "Sport",
+  "grade": "5.10b",
+  "stars": 3.31,
+  "length": "60",
+  "id": 2213,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/562a6c76c6bbc&w=165"
+  ],
+  "location": "\n\n50 feet left of DaVinci's Left Ear. Endure the oil saturated rock at the start to find an enjoyable slab rife with overzealous tick marks courtesy of the FA. But if it rains before you get there, all bets are off on your ability to onsight measly 10B. \n\n\n"
+},{
+  "number": 22,
+  "name": "Johnny B. Good",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1314",
+  "type": "Sport",
+  "grade": "5.11a",
+  "stars": 3.68,
+  "length": "85",
+  "id": 2235,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/522db8693983d&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/522db8417e54e&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/503e0091df8a1&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/503e004256421&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/503e0021016f1&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4d44b1971639f&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4c90e5994235e&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/46752edcb5f13&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/46752e76a6faf&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/46752e0de6204&w=165"
+  ],
+  "location": "\n\nMove right from the previous line to locate this route which begins with a bulge leading to a low angled section. Tread lightly low angled rock past thin sidepulls to a severely overhanging section near the top. Crank out the roof on big jugs to a pocketed section just before the anchors. \n\n\n"
+},{
+  "number": 8,
+  "name": "Solitary Confinement",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2916",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 3,
+  "length": "65",
+  "id": 1529,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5325b61ec9e2a&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5325b615c799a&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52f052d76f741&w=165"
+  ],
+  "location": "\n\nJust left of Born On is this bolted line beginning with steep pocket climbing on bullet stone. Pull a roof mid-route and continue up the mostly blank face. \n\n\n"
+},{
+  "number": 11,
+  "name": "KAPOW!",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3495",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 2.82,
+  "length": "40",
+  "id": 2129,
+  "images": [],
+  "location": "\n\nShort route left of All In. Pull a technical start then enjoy comfortable jugs up to the overhang and punch it to the top. \n\n\n"
+},{
+  "number": 49,
+  "name": "Kick Me In the Jimmie",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=829",
+  "type": "Sport",
+  "grade": "5.12a",
+  "stars": 3.95,
+  "length": "60",
+  "id": 2179,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/kickme.jpg&w=165"
+  ],
+  "location": "\n\nThis route begins slightly uphill and about 30 feet right of SKWBA. Start on top of a small boulder then move up and left to the anchors. \n\n\n"
+},{
+  "number": 2,
+  "name": "Swine Flew",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1980",
+  "type": "Sport",
+  "grade": "5.13b",
+  "stars": 5,
+  "length": "80",
+  "id": 2254,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/459810c8cb531&w=165"
+  ],
+  "location": "\n\nHike down through the ravine and up to the other side with help of a hand rope. Tackle the steep arete which hovers above the ravine to reach an intimidating headwall. Reachy. \n\n\n"
+},{
+  "number": 18,
+  "name": "Skeletor",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=883",
+  "type": "Sport",
+  "grade": "5.14c",
+  "stars": null,
+  "length": "70",
+  "id": 2299,
+  "images": [],
+  "location": "\n\nThis is the next bolted route to the right of A Clean Well Lighted Face. Climb the blank, orange face to some anchors. \n\nOpen project. Approximate rating. \n"
+},{
+  "number": 7,
+  "name": "Crack the Whip",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1122",
+  "type": "Sport",
+  "grade": "5.11d",
+  "stars": 3.71,
+  "length": "0",
+  "id": 2194,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5291ff2729b6b&w=165"
+  ],
+  "location": "\n\nThis powerful crimpfest begins to the right of Capture the Flag. \n\n\n"
+},{
+  "number": 3,
+  "name": "Mist of Funk",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1470",
+  "type": "Trad",
+  "grade": "5.10b",
+  "stars": null,
+  "length": "90",
+  "id": 2449,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4399be0f16668&w=165"
+  ],
+  "location": "\n\nWalk 30 ft. left of Looking Through the Devil's Window to a left facing dihedral with two roofs on it. Boulder up to a ledge, then layback up and around the first roof to a no hands rest in a large hueco. Continue to a higher ledge and belay. Tackle the surprisingly short second roof and top out.\n\n\n\n"
+},{
+  "number": 21,
+  "name": "The Seventh Circle of Dante",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1494",
+  "type": "Trad",
+  "grade": "5.10a",
+  "stars": null,
+  "length": "65",
+  "id": 2467,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4399be72a66f7&w=165"
+  ],
+  "location": "\n\nWalk 60ft. right of Back in the Days of Bold to find this route at the end of the ledge. Start in a large pod/hueco and climb the face up to an offwidth and squeeze chimney that starts 15ft. up. Work up the crack until it flares and fizzles out. Protect out of a pocket and follow the line of least resistance up the slab to a tree. \n\n\n"
+},{
+  "number": 5,
+  "name": "Which is Which?",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1111",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 2.92,
+  "length": "70",
+  "id": 2434,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4d36a02906bf3&w=165"
+  ],
+  "location": "\n\nStep 10 feet right of Who Knows. Crank through a steep start for a few bolts to a hand ledge. Continue up a more vertical face to the overhanging headwall. Conquer the headwall and clip the chains. \n\n\n"
+},{
+  "number": 6,
+  "name": "Who is Who?",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1112",
+  "type": "Sport",
+  "grade": "5.11d",
+  "stars": 3.54,
+  "length": "70",
+  "id": 2435,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4529999269720&w=165"
+  ],
+  "location": "\n\nStart 5 feet right of Which is Which? on the same steep section of the wall. Crank through 4 bolts of pocket pulling to gain a vertical section. Climb past the vertical section then deal with steepening rock to the anchors. \n\n\n"
+},{
+  "number": 8,
+  "name": "Buffalo Crickets",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1965",
+  "type": "Trad",
+  "grade": "5.10b",
+  "stars": 3,
+  "length": "45",
+  "id": 2394,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/593ee78a28593&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/451ef4f01fc4b&w=165"
+  ],
+  "location": "\n\nStep 20 feet around the corner from Bulldozer to this left-facing dihedral. Crank past a tough start then continue up the crack. Near the top the crack widens and becomes extremely dirty. Protect out of horizontals on the arete to the left. \n\n\n"
+},{
+  "number": 10,
+  "name": "Space Junk",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2394",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": 3.8,
+  "length": "70",
+  "id": 1980,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52bf7b76e01c2&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4f6ca9abd8349&w=165"
+  ],
+  "location": "\n\nNext route to the right of Supafly, the last on the right. Begin on Supafly and climb to the rest, from where you bust out right through solid crimps and big moves to a \"rest\". Tell yourself you have done the crux, then proceed to the crux pulling off some cool moves on bad holds. Get the last bolt clipped and it's smooth sailing from there. \n\n \n"
+},{
+  "number": 36,
+  "name": "Amelia's Birthday",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1014",
+  "type": "Sport",
+  "grade": "5.11b",
+  "stars": 2.87,
+  "length": "60",
+  "id": 2011,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/45290d9699634&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/maizydance.jpg&w=165"
+  ],
+  "location": "\n\nThis line climbs the face just right of the previous route. Begin on a small ledge and climb the pocketed face past 4 bolts to a 15 foot runout before the anchors. \n\n\n"
+},{
+  "number": 44,
+  "name": "Chester Fried Chicken",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1292",
+  "type": "Trad",
+  "grade": "5.4",
+  "stars": 2.64,
+  "length": "0",
+  "id": 2024,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4fc98bfdc5d47&w=165"
+  ],
+  "location": "\n\nArching dihedral 8 feet right of previous route. \n\n\n"
+},{
+  "number": 6,
+  "name": "Tears of Unfathomable Sadness",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3869",
+  "type": "Sport",
+  "grade": "5.10d",
+  "stars": 2.4,
+  "length": "50",
+  "id": 1953,
+  "images": [],
+  "location": "\n\nClimb up a dirty face to the ledge below the featured overhang. Pull on good holds through the steeper section until they lessen to smaller pockets. Apply a bit of graceful thrutch and make your way to the chains. Should clean up with more traffic. \n\n\n"
+},{
+  "number": 3,
+  "name": "Unsung",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3950",
+  "type": "Sport",
+  "grade": "5.10d",
+  "stars": 2,
+  "length": "45",
+  "id": 2344,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5fb5691fdcc6c&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5fb5339c0df12&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5fb533185c453&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5fb53316743a2&w=165"
+  ],
+  "location": "\n\nNeeds climbed and cleaned up a bit \n \n\n"
+},{
+  "number": 3,
+  "name": "Beach Cruiser",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3525",
+  "type": "Trad",
+  "grade": "5.8+",
+  "stars": 1.33,
+  "length": "60",
+  "id": 1912,
+  "images": [],
+  "location": "\n\n?Fifty feet left of Riding Recumbent. Climb the dihedral to a sandy ledge. Gear: standard rack up to BD #4. \n\n\n"
+},{
+  "number": 6,
+  "name": "Cousins",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3928",
+  "type": "Sport",
+  "grade": "5.6",
+  "stars": 1.33,
+  "length": "35",
+  "id": 2360,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/60a3e93d815d0&w=165"
+  ],
+  "location": "\n\nClimb sandy jugs and a featured crack system to the top. Don't grab the choss! \n\n\n"
+},{
+  "number": 4,
+  "name": "Harvey",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2112",
+  "type": "Sport",
+  "grade": "5.7",
+  "stars": 2.99,
+  "length": "80",
+  "id": 2483,
+  "images": [],
+  "location": "\n\nNext route left of Rikki Tikki Tavi. Stop at first anchors at 45 feet (6 bolts) or continue past 4 more bolts to the second set of anchors for extended fun. \n\n\n"
+},{
+  "number": 10,
+  "name": "No Country for Old Men",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2167",
+  "type": "Sport",
+  "grade": "5.11b",
+  "stars": 3.43,
+  "length": "65",
+  "id": 2532,
+  "images": [],
+  "location": "\n\nStart just left of All the Pretty Horses with two large underclings. move through the pumpy lower section to a rest then power through the bouldery finish. \n\n\n"
+},{
+  "number": 6,
+  "name": "Hoosierheights.com",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2053",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 2.56,
+  "length": "75",
+  "id": 2494,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4e42fc3fcf651&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/45c63eafb1c80&w=165"
+  ],
+  "location": "\n\n30 feet left of Captain Blondie Sinks the Ship. Stick clip and start left of the first bolt. Climb up the steep juggy ledges through the first 5 bolts and enjoy a no hands rest. Once recovered, tackle the slightly overhanging but positive finish. \n\n\n"
+},{
+  "number": 9,
+  "name": "The Last Slow Draw",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2044",
+  "type": "Sport",
+  "grade": "5.11d",
+  "stars": 3.4,
+  "length": "70",
+  "id": 2497,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/457c84a81ac60&w=165"
+  ],
+  "location": "\n\nJust 5 feet left is another line with a roof near the bottom. Pull over the small roof and continue up a pocketed face past a few bulges. \n\n\n"
+},{
+  "number": 17,
+  "name": "Surfin' the Whales Back",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2193",
+  "type": "Sport",
+  "grade": "5.10b",
+  "stars": 2.45,
+  "length": "55",
+  "id": 2504,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/48a20b84b19b8&w=165"
+  ],
+  "location": "\n\nBolted line beginning on a pocketed face 20 feet left of Oink! Oink! Climb the chimney for the first 3 bolts, make an awkward third clip, then step left onto the face for interesting pocket climbing. \n\n\n"
+},{
+  "number": 23,
+  "name": "Abby Gabby Doo",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2014",
+  "type": "Sport",
+  "grade": "5.8",
+  "stars": 1.64,
+  "length": "30",
+  "id": 2512,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/457c8678f1a28&w=165"
+  ],
+  "location": "\n\nThe remaining lines are located to the right of the top of the second set of stairs. Continue to the top of the stairs then head right. This route is the first bolted line encountered and begins about 100 feet right of the top of the stairs. \n\n\n"
+},{
+  "number": 30,
+  "name": "Trouble in Paradise",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3070",
+  "type": "Sport",
+  "grade": "5.12a",
+  "stars": 4.3,
+  "length": "95",
+  "id": 2520,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/550212f1c90da&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/53daa55bdb657&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/53daa490e06a5&w=165"
+  ],
+  "location": "\n\nThrutch through two low cruxes to gain good rests, followed by crazy jug hauling through the roof and engaging face climbing above. Take 7 or 8 draws for the upper section of the route. \n\n\n"
+},{
+  "number": 9,
+  "name": "Ten Pin",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3971",
+  "type": "Sport",
+  "grade": "5.10",
+  "stars": 2.67,
+  "length": "40",
+  "id": 2584,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/6078a0ff257f3&w=165"
+  ],
+  "location": "\n\nThe crux is getting off the ground (may be easier for taller climbers or difficult for shorter climbers). Long lock-offs on decent edges, but thin feet left of the first bolt is the easier start. A bouldery 5.11ish start on the slopey right facing left-leaning dihedral/flake feature to the right of the first bolt adds difficulty to the route. After the 1st bolt the climbing eases to 5.8 or 5.9 on good edges and pockets to a juggy ledge at the top. \n\n\n"
+},{
+  "number": 10,
+  "name": "Trundling Kentucky",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2383",
+  "type": "Sport",
+  "grade": "5.7",
+  "stars": 2.43,
+  "length": "50",
+  "id": 2553,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/58ecc83663d73&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4eb0856bb8f1c&w=165"
+  ],
+  "location": "\n\nThis route is 15ft to the right of Sweet Jane. This route has a little of everything from face moves, jugs and a mantle to get you to the anchors. Clip the anchors high and to the left on the ledge. \n\n\n"
+},{
+  "number": 31,
+  "name": "Shinrin-yoku",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3988",
+  "type": "Sport",
+  "grade": "5.12a",
+  "stars": 3,
+  "length": "40",
+  "id": 2574,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/60d15762e1e70&w=165"
+  ],
+  "location": "\n\nWalk 3 minutes past the main Bruisebrothers Wall to a small amphitheater. This route ascends the overhanging pocketed face out the middle of the mini-amphitheater. Solve the thin cruxy sequence between the 1st and 2nd bolts, then swim up 5.10 jugs to a Fixe ring anchor below the final roof. \n\n\n"
+},{
+  "number": 5,
+  "name": "MumMum",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2007",
+  "type": "Sport",
+  "grade": "5.11a",
+  "stars": 3.1,
+  "length": "70",
+  "id": 2613,
+  "images": [],
+  "location": "\n\nBegins on a flake 30 feet left of Golden Buddha. Climb up to a small roof and smack over it to reach a decent ledge. Continue up on decent side pulls and edges to end with a nice sloping finale. \n\nEquipped by Skip Wolfe and Jared Hancock \n"
+},{
+  "number": 4,
+  "name": "Oddballs",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2040",
+  "type": "Trad",
+  "grade": "5.8+",
+  "stars": 1.33,
+  "length": "50",
+  "id": 2625,
+  "images": [],
+  "location": "\n\nRight of \"Firestarter\" is this physical overhanging offwidth. Commence on the dihedral then battle the bulge above. Grunt, grovel, jam, armbar, or chickenwing your way through and stand on the ledge to clip the anchors. \n\n\n"
+},{
+  "number": 10,
+  "name": "Edge-a-Sketch",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1219",
+  "type": "Sport",
+  "grade": "5.11a",
+  "stars": 4.16,
+  "length": "70",
+  "id": 2650,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4e754be93eb28&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/EdgeaSketch.jpg&w=165"
+  ],
+  "location": "\n\nAnother bouldery start begins this technical and thought-provoking route. It may keep you guessing with interesting moves all the way. \n\n\n"
+},{
+  "number": 4,
+  "name": "Cruisin' for a Bruisin'",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1226",
+  "type": "Sport",
+  "grade": "5.10d",
+  "stars": 3.84,
+  "length": "60",
+  "id": 2707,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/CruisinForABruisin.jpg&w=165"
+  ],
+  "location": "\n\nClimbs incut crimps up gorgeous vertical orange face to a short crux at a perplexing bulge that can be surmounted several different ways. May feel slightly harder for the shorter climber. \n\n\n"
+},{
+  "number": 12,
+  "name": "Born Again Christian",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1228",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 4,
+  "length": "50",
+  "id": 2715,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/Born Again Christian.jpg&w=165"
+  ],
+  "location": "\n\nThis is the next corner 100 ft left of the atrium (The Hideout). Climb past a chockstone and up into the squeeze chimney above. Skinny people head deep into the chimney and tunnel up and through protecting in the fist-sized crack in the back. Bigger folk will have to chimney the outer section of the crack, protecting with bigger gear. It is kind of green down low but the chimney is clean and fun. \n\n\n"
+},{
+  "number": 9,
+  "name": "Owgli Mowgli",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1149",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 3,
+  "length": "40",
+  "id": 2760,
+  "images": [],
+  "location": "\n\nGreen and dirty crack system 20-30 ft. right of \"Drop the Hammer\". Begins as an off-width and ends as a hand crack. Shares anchors with \"FUTTA\". It is also possible to do a 2nd pitch or continue climbing out the roof to an easy gully that continues up to the actual clifftop. \n\n\n"
+},{
+  "number": 9,
+  "name": "Cosmic Trigger",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1200",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 4.61,
+  "length": "70",
+  "id": 2665,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4b661be195d9e&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/49193d36bce17&w=165"
+  ],
+  "location": "\n\nJust right of \"Netizen Hacktivist\" is an obvious black arete with a golden bolted face to the right. Moderate climbing on jugs and pinches leads to a good bouldery crux. Mantle past the final bolt to anchors on roof. \n\n\n"
+},{
+  "number": 3,
+  "name": "Open Project 1",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3500",
+  "type": "Sport",
+  "grade": "Unknown",
+  "stars": null,
+  "length": "100",
+  "id": 2673,
+  "images": [],
+  "location": "\n\nEquipped by Dustin Stephens. Marked by a hard, bouldery start and 2 permadraws in the middle. \n\n\n"
+},{
+  "number": 0,
+  "name": "Babyface",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2486",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 4.58,
+  "length": "100",
+  "id": 2725,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/503d0a3a7acfd&w=165"
+  ],
+  "location": "\n\nMidway between the Boneyard and Midnight Surf is this long jug haul with a high sloping crux. A 60 meter rope will barely get you back to the ledge from which you start the route so be sure to tie a knot in the end of your rope. \n\n\n"
+},{
+  "number": 1,
+  "name": "Creeping Elegance",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2100",
+  "type": "Sport",
+  "grade": "5.11a",
+  "stars": 3.23,
+  "length": "45",
+  "id": 2678,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5783fe2c22eaf&w=165"
+  ],
+  "location": "\n\nThis line is located 30 feet left of Dragon's Tail. Surprisingly pumpy for its length. \n\n\n"
+},{
+  "number": 15,
+  "name": "Blue Collar",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1159",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 4.05,
+  "length": "60",
+  "id": 2786,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/43fcf91687d23&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/43fcf8f99513d&w=165"
+  ],
+  "location": "\n\nThis route climbs the face left of \"First Fall\". Make a big move or a few thin moves to the first bolt then crimp and crank your way to a powerful and technical crux between the 4th and 5th bolts. \n\n\n"
+},{
+  "number": 1,
+  "name": "Kya",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2283",
+  "type": "Sport",
+  "grade": "5.13a",
+  "stars": 4.2,
+  "length": "90",
+  "id": 2745,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4c9b777420a10&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4c9b7758a31d6&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4c9b773c21d51&w=165"
+  ],
+  "location": "\n\nClimb through continuous bouldery moves until you can grab a shake, bust through a few more hard moves and enjoy the difficult but amazing finish. \n\n\n"
+},{
+  "number": 1,
+  "name": "Return to Balance",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1587",
+  "type": "Sport",
+  "grade": "5.11a",
+  "stars": 4.38,
+  "length": "50",
+  "id": 2791,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/59887f38e93ff&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4533d5335dc17&w=165"
+  ],
+  "location": "\n\nFrom the top of the trail, head left past several bolted lines. This is the route furthest left on this wall. Locate the sculpted scoop/groove feature on the left side of an attractive wall. Go big at the 3rd bolt and ponder the balancy crux above. Reach left around the arete for a sloper and a hidden pocket or crimp and edge straight up the groove to bigger and better holds. \n\n\n"
+},{
+  "number": 3,
+  "name": "So Long Mr. Petey",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1347",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": 3.42,
+  "length": "70",
+  "id": 2862,
+  "images": [],
+  "location": "\n\nNext route right of Manifest Destiny. Climb through mellow moves to a steep section near the middle where the moves get more desperate. End with excellent climbing before the chains. \n\n\n"
+},{
+  "number": 4,
+  "name": "Magnum Opus",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1348",
+  "type": "Sport",
+  "grade": "5.12a",
+  "stars": 4.22,
+  "length": "90",
+  "id": 2863,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/595174ca70bcc&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/595173fea6026&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5267bff4007e7&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5267bfccb08da&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5267bfa3a3762&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4bd22b2f1e32b&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4b02c3a4a1053&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/43fb101dea960&w=165"
+  ],
+  "location": "\n\nNext sport route to the right that works up the wall to the right of two large bulges. Fun pocket climbing up a variety of interesting features. Aptly named. \n\n\n"
+},{
+  "number": 6,
+  "name": "Indecision",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1165",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 4.05,
+  "length": "100",
+  "id": 2824,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/59888dc3d5e86&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/51f46cf0dc1d1&w=165"
+  ],
+  "location": "\n\nThis highly recommended route begins left of approach trail where it meets the cliff. Begin with easy face climbing left of the arete then step right to gain the enjoyable crack. Enjoy the ride and soak in the view of the valley from the top. Lower from rap anchors.\n\n\n\n"
+},{
+  "number": 10,
+  "name": "Mossy Mayhem",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1485",
+  "type": "Trad",
+  "grade": "5.10",
+  "stars": null,
+  "length": "30",
+  "id": 2914,
+  "images": [],
+  "location": "\n\nDirty 3rd class gully on the left side of the pinnacle and the main wall that can be climbed to access the ledge. There are a couple of 5th class moves in the chimney at the top. Then step across the gap to climb onto the ledge. Not recommended. \n\n\n"
+},{
+  "number": 1,
+  "name": "Dog Wars",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1269",
+  "type": "Mixed",
+  "grade": "5.12",
+  "stars": null,
+  "length": "90",
+  "id": 2800,
+  "images": [],
+  "location": "\n\nThis and the following routes are located on the other side of Rebel Branch Hollow. Obvious overhanging finger and handcrack that splits the middle of the main wall across the valley from the Bruisebrothers Wall. \n\n\n"
+},{
+  "number": 7,
+  "name": "Back To The Earth",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1519",
+  "type": "Bouldering",
+  "grade": "V1",
+  "stars": 2.5,
+  "length": "8",
+  "id": 2806,
+  "images": [],
+  "location": "\n\nWalk around the opposite side of the large boulder in front of the cave/arch opening and slightly downhill to find this obvious and clean problem on the side facing \"Machete\" and \"Weed Eater\". Sit start and ascend overhanging plates and pockets. Top it out. \n\n\n"
+},{
+  "number": 2,
+  "name": "Gettin' Lucky In Kentucky",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1170",
+  "type": "Sport",
+  "grade": "5.10b",
+  "stars": 4.22,
+  "length": "60",
+  "id": 2887,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5a54d78212846&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/502083ca9fd9e&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4e56853134ce6&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/4b8c5cc805207&w=165"
+  ],
+  "location": "\n\nLeft-most route on wall. Enjoyable pumpy technical climbing on jugs, pockets, sidepulls and underclings to a steep finish. Classic. \n\n\n"
+},{
+  "number": 11,
+  "name": "Mancala",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1586",
+  "type": "Sport",
+  "grade": "5.10b",
+  "stars": 2.99,
+  "length": "45",
+  "id": 2896,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/445c0b39a2434&w=165"
+  ],
+  "location": "\n\nStart on the boulder right of \"Spinner\". Pick a path up the juggy plates to an interesting bulge and a fierce finish. \n\n\n"
+},{
+  "number": 8,
+  "name": "Sticks and Stones",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=1142",
+  "type": "Mixed",
+  "grade": "5.11+",
+  "stars": 5,
+  "length": "35",
+  "id": 2857,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/43b9bfaac89d7&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/SticksandStones.jpg&w=165"
+  ],
+  "location": "\n\nBegin at base of Tradmill. Climb up to roof and hand traverse 10-15 ft. right to gain handcrack. Place some gear, then crank through the thinning and steepening crack to a good horizontal. Clip the bolt and make the move to the jug. Crimp your way to the anchors. \n\n\n"
+},{
+  "number": 26,
+  "name": "Fuera de su Fuero",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3918",
+  "type": "Sport",
+  "grade": "5.12a",
+  "stars": 3.67,
+  "length": "90",
+  "id": 3098,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5f6d19ec0b2b1&w=165"
+  ],
+  "location": "\n\nFrom 'Flight Risk', follow the cliff line to the climber's right, past the wide dihedral and drainage to stacked stones. (The start without the stack has been done.) The obvious crux at bolt 3 has been solved 3 ways. \n\n\n"
+},{
+  "number": 22,
+  "name": "Lady of the Lake",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3683",
+  "type": "Sport",
+  "grade": "5.10a",
+  "stars": 3.5,
+  "length": "45",
+  "id": 2972,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bcc900c0fe02&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bcc8f4022ea7&w=165"
+  ],
+  "location": "\n\nTurn the corner and find the best part of Camelot. This is the first of 3 routes on the tall wall. Either start on the overhang directly below the 1st bolt or traverse in from the right. Enjoy the vert/techy sequences. \n\n\n"
+},{
+  "number": 4,
+  "name": "King Ducky",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3063",
+  "type": "Sport",
+  "grade": "5.5",
+  "stars": 2.4,
+  "length": "40",
+  "id": 3045,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/53c5132950e84&w=165"
+  ],
+  "location": "\n\nThis short line is down and right of Live with a Curse beneath a large roof. Climb big plates and edges skirting the right side of a large hueco. \n\n\n"
+},{
+  "number": 17,
+  "name": "She Rolls Gangster Style",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2885",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 3.22,
+  "length": "70",
+  "id": 3060,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5556741438d3e&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/555673fb861a9&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/544ed47bd7026&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52c97b71cc8f3&w=165"
+  ],
+  "location": "\n\nBegin just right of the crack near a low roof. Sequential moves will get you to a decent undercling where poor feet and creative hold grabbing unlock a sequence to reach the far left jug in the corner. The upper headwall offers fun jug pulling that is quite a step down in difficulty. \n \n\n"
+},{
+  "number": 26,
+  "name": "Blackout",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3156",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 1.8,
+  "length": "50",
+  "id": 3070,
+  "images": [],
+  "location": "\n\nThe last line on the right side of the grid at this time. Start in the crack and crank up to a small hueco to clip the second bolt. A reachy move to a sloper gets you off the ledge and into a couple of pocket stabs before the fun quickly ends. \n\n\n"
+},{
+  "number": 10,
+  "name": "Grundle Bundle",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3304",
+  "type": "Sport",
+  "grade": "5.11a",
+  "stars": 3.54,
+  "length": "60",
+  "id": 3330,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54e2172b3f9c7&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54e216124b550&w=165"
+  ],
+  "location": "\n\nBegin on a flat boulder and just left of Grab n' Go. An easy approach to a low pocket crux opens up to gigantic, solid jugs to reach a nearly no-hands rest mid-height. More jugs entice you into a final sequence of tough pulling to reach the chains. Equipped with glue-in bolts. \n\n\n"
+},{
+  "number": 21,
+  "name": "Palm Reader (Open Project)",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2979",
+  "type": "Sport",
+  "grade": "5.13b",
+  "stars": 4,
+  "length": "90",
+  "id": 3038,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5508a8a4c6aed&w=165"
+  ],
+  "location": "\n\nJust around the corner from Hazard Function is a bolted, left-leaning dihedral where just a glance will provide you with the origin of the name. Technical power palming makes way for a gorgeous, plated headwall. \n\n\n"
+},{
+  "number": 30,
+  "name": "Bovine Stimulator",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3783",
+  "type": "Sport",
+  "grade": "5.10c",
+  "stars": 3.91,
+  "length": "55",
+  "id": 3431,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5d557dcd3259a&w=165"
+  ],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 14,
+  "name": "Rest in Pieces",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2775",
+  "type": "Mixed",
+  "grade": "5.11c",
+  "stars": 4.5,
+  "length": "80",
+  "id": 2947,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/554364237338e&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/553b07c6950c8&w=165"
+  ],
+  "location": "\n\nMixed line with a single bolt left of Ghost Dog. Gear beta (you may want this): Bring a .4 or yellow Alien and a 2\" cam to protect the moves after the runout on the face. You can also place a .75 immediately below the anchors to reduce leg shake. \n\n\n"
+},{
+  "number": 8,
+  "name": "The Hitching Post",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3250",
+  "type": "Sport",
+  "grade": "5.12",
+  "stars": 4,
+  "length": "0",
+  "id": 2931,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/59d7decaccf2f&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54a225a06e5b7&w=165"
+  ],
+  "location": "\n\nEquipped by John Wesely. Slabby arete. \n\n\n"
+},{
+  "number": 9,
+  "name": "Blood on the Thistle",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2841",
+  "type": "Sport",
+  "grade": "5.12d",
+  "stars": 4,
+  "length": "80",
+  "id": 3385,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52a7b0e8abe37&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52a7b0404a7e6&w=165"
+  ],
+  "location": "\n\nThe first of the four routes in the ampitheater. Climb to a roof at 25 feet and boulder over the roof making use of a sloping edge and a crack to reach good holds. From here move through good underclings to meet up with a blank section of the wall where subtle sloping pinches will let you past if held just right. \n\n\n"
+},{
+  "number": 16,
+  "name": "Halitosis",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3024",
+  "type": "Sport",
+  "grade": "5.12d",
+  "stars": 3.9,
+  "length": "75",
+  "id": 3454,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5acbdaa7c425f&w=165"
+  ],
+  "location": "\n\nBegins on Push Present but trends right after the first bolt up and into a hueco. A tough boulder problem out of the hueco leads to sustained movement on decent sized holds. Equipped by Andrew Wheatley. \n\n\n"
+},{
+  "number": 17,
+  "name": "Push Present",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2823",
+  "type": "Sport",
+  "grade": "5.11d",
+  "stars": 3.92,
+  "length": "80",
+  "id": 3455,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5525f7b87ba3e&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52a0751a21203&w=165"
+  ],
+  "location": "\n\nThe steep arete on the right side of the main wall. If Kaleidoscope is above your head then here's a toned down version for ya. Long, steep, pumpy, and well varied climbing. \n\n\n"
+},{
+  "number": 18,
+  "name": "Pandemic",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2824",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 3.76,
+  "length": "85",
+  "id": 3458,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52a07536979f2&w=165"
+  ],
+  "location": "\n\nBegin with a big pull over a low roof. Travel through a steep haul on big holds to meet up with a tough boulder problem just before a roof. This route is the only one on this wall that goes over the roof so unlike the others it doesn't stay dry in heavy rain. However, if you can hang onto wet jugs you should be fine. \n\n\n"
+},{
+  "number": 34,
+  "name": "Free Clinic",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3546",
+  "type": "Sport",
+  "grade": "5.7",
+  "stars": 2.76,
+  "length": "50",
+  "id": 3474,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5f7684400f273&w=165"
+  ],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 5,
+  "name": "Micro Array",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3107",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 3.88,
+  "length": "40",
+  "id": 2988,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54809400a0fee&w=165"
+  ],
+  "location": "\n\nThis blunt arete and slab climb may be on the shorter side but the amount of down climbing you do while trying to piece it together will add up to a nice, full pitch. \n\n\n"
+},{
+  "number": 3,
+  "name": "Nomad",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3309",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": 3.78,
+  "length": "75",
+  "id": 3187,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/554ac2502e915&w=165"
+  ],
+  "location": "\n\nSustained bouldery climbing on steep terrain leading to better holds on gently overhanging rock. \n\n\n"
+},{
+  "number": 16,
+  "name": "Pickled Pig's Feet",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2873",
+  "type": "Sport",
+  "grade": "5.10b",
+  "stars": 2.5,
+  "length": "50",
+  "id": 3202,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/52bf74adb6bb5&w=165"
+  ],
+  "location": "\n\nThis is the first bolted line on this section of the wall. Thin moves on fragile holds. \n\n\n"
+},{
+  "number": 7,
+  "name": "Coroner",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2867",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": 4.94,
+  "length": "90",
+  "id": 3007,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5df8fe5a79ee1&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/55fab6f3dde1f&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54c427b92c73a&w=165"
+  ],
+  "location": "\n\nIt's not often an instant classic is born but this route shows that it is definitely possible. This is the kind of stuff people come from Spain to Kentucky for. Classic, pumpy climbing with enough variety to keep it interesting leads up to a grand finale crux run to the chains and an anchor clip guaranteed to bring the chicken wings out of any climber. If this is open, you are in luck. \n\n \n"
+},{
+  "number": 3,
+  "name": "Purple Pill",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2696",
+  "type": "Sport",
+  "grade": "5.10d",
+  "stars": 2.6,
+  "length": "65",
+  "id": 3487,
+  "images": [],
+  "location": "\n\nBegin right of Chasing Butterflies. Climb up to reach a few wrestly moves which will get you over the bulge and onto the face where the crimping begins. \n\n\n"
+},{
+  "number": 4,
+  "name": "Early Burly",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3899",
+  "type": "Trad",
+  "grade": "5.10b",
+  "stars": 4,
+  "length": "80",
+  "id": 3138,
+  "images": [],
+  "location": "\n\nLocated on the far right side of the crag. Climb the finger crack to gain a ledge, following the crack up left through the face. Flex out of a short roof and finish at the chains. \n\n\n"
+},{
+  "number": 15,
+  "name": "Closed Project",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3415",
+  "type": "Sport",
+  "grade": "5.13",
+  "stars": null,
+  "length": "0",
+  "id": 3292,
+  "images": [],
+  "location": "\n\n\n\nEquipped by John Flunker \n"
+},{
+  "number": 33,
+  "name": "Chupacabra",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3426",
+  "type": "Sport",
+  "grade": "5.13a",
+  "stars": 3.67,
+  "length": "65",
+  "id": 3312,
+  "images": [],
+  "location": "\n\n20 feet right of the crack find a series of bolts that will test your slab mastery down low and your steep bouldering skills above. Finesse the slab, recover at the hueco, and fire through the crimps, pockets, and a clutch undercling as the lines angles to the left. \n\nEquipped by Dustin Stephens \n"
+},{
+  "number": 11,
+  "name": "Fly by Night",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3334",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 4.13,
+  "length": "65",
+  "id": 3161,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5abb2c4262343&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5559304d4b3b3&w=165"
+  ],
+  "location": "\n\nA climb this good is worth the long haul to reach it. Begin on the rightmost side of a ledge before a dropoff and climb straight up to a slanting ledge. Hand traverse right then fire up the steep face with big moves between sinker pockets. If you grab a ball consider yourself lucky. \n\n\n"
+},{
+  "number": 6,
+  "name": "Sting",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3470",
+  "type": "Sport",
+  "grade": "5.10d",
+  "stars": 2.17,
+  "length": "65",
+  "id": 3245,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/57825f659917d&w=165"
+  ],
+  "location": "\n\nFun moderate climbing with a couple of\nmoves to keep you honest. Skirt the right side of the large hueco and finish on steep jug pulling.\nContinue past the anchors of Sting for a step up in difficulty.\nWork through a some so-so crimps while trending left to the anchors. Currently a bit run out but a bolt\nwill be added in the future. If you find a bolt in between , consider yourself lucky. (Stung 5.11b, 80ft. 8 bolts FA Ian Kirk, 2016) \n\n\n"
+},{
+  "number": 1,
+  "name": "Shooglenifty",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2863",
+  "type": "Trad",
+  "grade": "5.6",
+  "stars": 1,
+  "length": "60",
+  "id": 3367,
+  "images": [],
+  "location": "\n\nNot so appealing trad climb 50 feet right of Bonnie Wee. \n\n\n"
+},{
+  "number": 4,
+  "name": "The Net",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3530",
+  "type": "Sport",
+  "grade": "5.10a",
+  "stars": 2.68,
+  "length": "55",
+  "id": 3502,
+  "images": [],
+  "location": "\n\n20 feet right of Going Away Party. A challenging start leads to edge climbing. \n\n\n"
+},{
+  "number": 5,
+  "name": "Heavy Flow",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2739",
+  "type": "Mixed",
+  "grade": "5.10c",
+  "stars": 3.11,
+  "length": "60",
+  "id": 3503,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54d1885327da4&w=165"
+  ],
+  "location": "\n\nBegin with a 3 bolts of technical face climbing to reach a fun crack. \n\n\n"
+},{
+  "number": 6,
+  "name": "Dirty Little Secret",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3097",
+  "type": "Trad",
+  "grade": "5.8+",
+  "stars": 2.11,
+  "length": "50",
+  "id": 3504,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5b14a9e38d100&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/53f2b3b6f4131&w=165"
+  ],
+  "location": "\n\nBegin in the jumbly dihedral to reach the arching finger crack high on the face. Heed the name. \n\n\n"
+},{
+  "number": 6,
+  "name": "Unnamed Crack",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3447",
+  "type": "Trad",
+  "grade": "5.8+",
+  "stars": 2.5,
+  "length": "60",
+  "id": 3505,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5751b3c233f18&w=165"
+  ],
+  "location": "\n\nStarts in the dihedral left of�Barfwidth�up on the recessed ledge. Traverse left around the corner to evade a rhodo cluster and finish up the face to the anchor on�Dirty Little Secret. \n\n\n"
+},{
+  "number": 7,
+  "name": "Barfwidth",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2740",
+  "type": "Trad",
+  "grade": "5.11b",
+  "stars": 5,
+  "length": "65",
+  "id": 3506,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54d188773a411&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54768c13954ce&w=165"
+  ],
+  "location": "\n\nThe steep overhanging offwidth capped by a roof. \n\n\n"
+},{
+  "number": 8,
+  "name": "Cock to the Rock",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3029",
+  "type": "Sport",
+  "grade": "5.10b",
+  "stars": 2.97,
+  "length": "70",
+  "id": 3507,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5383efa54c74a&w=165"
+  ],
+  "location": "\n\nBegin on a dirt ledge and pull up onto a stepped rock ledge to gain the face. Pull a difficult low move then cruise up the slab passing a trio of shallow huecos. Stick clip the second bolt if you want to be super safe. \n\n\n"
+},{
+  "number": 9,
+  "name": "Red Devil",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2741",
+  "type": "Sport",
+  "grade": "5.11b",
+  "stars": 3.7,
+  "length": "85",
+  "id": 3508,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5328fdcbc74ac&w=165"
+  ],
+  "location": "\n\nAnother decent slab climb with glue in bolts beginning right of a tree left and around the corner from where the trail meets the wall. \n\n\n"
+},{
+  "number": 10,
+  "name": "Linear Regression",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2742",
+  "type": "Sport",
+  "grade": "5.11a",
+  "stars": 4.1,
+  "length": "85",
+  "id": 3509,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5352b0f6bec17&w=165"
+  ],
+  "location": "\n\nThis is the first line encountered when you reach the wall on the main trail from the parking area. It begins on a low rock shelf with about 15 feet of precarious climbing on questionable rock. A high first bolt protects this section after which the rock quality and the movement greatly improve for the remainder of the route. \n\n\n"
+},{
+  "number": 11,
+  "name": "Feeding Frenzy",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2744",
+  "type": "Mixed",
+  "grade": "5.11b",
+  "stars": 3.8,
+  "length": "85",
+  "id": 3510,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54d188c417501&w=165"
+  ],
+  "location": "\n\nAs with Linear Regression, a high and tricky to spot bolt protects the initial 15 feet of questionable rock after which a tricky hand and finger crack awaits. Traverse left at the top before entering the hueco, then clip the last bolt of Linear Regression and continue to the shared chain anchor. \n\n\n"
+},{
+  "number": 12,
+  "name": "Gettin' Woolly",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2743",
+  "type": "Sport",
+  "grade": "5.12a",
+  "stars": 3.89,
+  "length": "80",
+  "id": 3511,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54d188e3b2315&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/53ad7a80f3e67&w=165"
+  ],
+  "location": "\n\nBegin just right of a large tree. Mellow face climbing leads to a roof at the fourth bolt where the shit gets real. Take the rest before the last bolt because you will need to dig deep to reach the chains. \n\n\n"
+},{
+  "number": 12,
+  "name": "Nachos, Lemonheads, My Dad's Boat",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3387",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 4,
+  "length": "75",
+  "id": 3512,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5622902d38575&w=165"
+  ],
+  "location": "\n\nA hard boulder problem involving several slopey underclings gains the easy plated face just above the first bolt. Gain a good jug rail just below the fourth then tackle the roof while traversing left and up to another good rest. Hard technical climbing on small crimps and underclings leads to the anchors. \n\n\n"
+},{
+  "number": 13,
+  "name": "Sloppy Seconds",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2745",
+  "type": "Sport",
+  "grade": "5.11a",
+  "stars": 4.03,
+  "length": "80",
+  "id": 3513,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/55484b9e91cee&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5352b1fbde20a&w=165"
+  ],
+  "location": "\n\nA tricky and thin lower section leads to a great arete run on big holds. A crux guards the chains where two closely spaced bolts will hopefully keep you off the slab if you blow it. \n\n\n"
+},{
+  "number": 14,
+  "name": "Flashback",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2746",
+  "type": "Trad",
+  "grade": "5.10c",
+  "stars": 4.18,
+  "length": "80",
+  "id": 3514,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5e14d6d56ccb5&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/53f0d9090c8d0&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5240e403768f5&w=165"
+  ],
+  "location": "\n\nThis gigantic, intimidating crack splits the middle of the wall. Climb the left side of the huge, layered pyramid feature with excellent gear placements throughout. \n\n\n"
+},{
+  "number": 15,
+  "name": "Cephalopagus",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2747",
+  "type": "Trad",
+  "grade": "5.10b",
+  "stars": 3.2,
+  "length": "80",
+  "id": 3515,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5e14d6032bf15&w=165"
+  ],
+  "location": "\n\nBegin on the thin crack and face right of Flashback. Climb the right crack and meet up with Flashback near the top. A large, fallen tree blocks the beginning of this route currently. \n\n\n"
+},{
+  "number": 16,
+  "name": "So What?",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2748",
+  "type": "Sport",
+  "grade": "5.11b",
+  "stars": 3.5,
+  "length": "65",
+  "id": 3516,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54d1891ff3960&w=165"
+  ],
+  "location": "\n\nStep up onto a waist high ledge to begin. Solve a tricky, spicy section between bolts 2 and 3 to reach a nice horizontal slot where another tough move awaits. More technical climbing on edges and knobs leads to the chains. \n\n\n"
+},{
+  "number": 17,
+  "name": "Little Wing",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2749",
+  "type": "Sport",
+  "grade": "5.9",
+  "stars": 4.09,
+  "length": "60",
+  "id": 3517,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/552d82cea8e46&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5352af0e010d7&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/53290084c0e06&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5328fde6a41f6&w=165"
+  ],
+  "location": "\n\nJust right of a tree is a large, chalked, flat jug marking the start of this fantastic blunt prow. Definitely one of the better lines in its class. \n\n\n"
+},{
+  "number": 18,
+  "name": "Bees in the Trap",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2750",
+  "type": "Sport",
+  "grade": "5.11d",
+  "stars": 3.86,
+  "length": "80",
+  "id": 3518,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5243b714cb5ca&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5243b6e1e8d31&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5243b6a2dff06&w=165"
+  ],
+  "location": "\n\nBegin left of a large crack on a short face that leads to a ledge. Enjoyable plate climbing abruptly ends near the top where the moves get serious. You can't blame this one on the pump. It's recommended to either unclip or put a long draw on the third bolt. \n\n\n"
+},{
+  "number": 19,
+  "name": "Swole Up",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2751",
+  "type": "Trad",
+  "grade": "5.9+",
+  "stars": 3.4,
+  "length": "80",
+  "id": 3519,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54d1896528732&w=165"
+  ],
+  "location": "\n\nDive into the demanding hand to chimney crack right of Bees in the Trap. Leave the Big-Bros behind because a hidden medium cam placement can be found in the chimney section. \n\n\n"
+},{
+  "number": 20,
+  "name": "Leech Line",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2752",
+  "type": "Trad",
+  "grade": "5.10",
+  "stars": 3.25,
+  "length": "75",
+  "id": 3520,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/531bd081ac278&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5306a185f04af&w=165"
+  ],
+  "location": "\n\nStart just right of Swole Up in a grungy crack with marginal pro, then traverse right to a hand crack. Climb the hand crack to reach a tree then shift left and continue up the offwidth to the top. Rappel from a tree to descend. \n\n\n"
+},{
+  "number": 21,
+  "name": "Spork",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2753",
+  "type": "Mixed",
+  "grade": "5.11b",
+  "stars": 3.25,
+  "length": "70",
+  "id": 3521,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54d18d7f8530a&w=165"
+  ],
+  "location": "\n\nFrom the tree on Leech Line head up the slab protected by four bolts. \n\n\n"
+},{
+  "number": 22,
+  "name": "Tinkerbell's Panties",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2754",
+  "type": "Trad",
+  "grade": "5.9",
+  "stars": 3.5,
+  "length": "55",
+  "id": 3522,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/53f0d97053589&w=165"
+  ],
+  "location": "\n\nBegin atop a group of boulders and enjoy straight-in hand jams coupled with a few face moves. \n\n\n"
+},{
+  "number": 23,
+  "name": "Where the Dope At?",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2755",
+  "type": "Sport",
+  "grade": "5.11d",
+  "stars": 3.25,
+  "length": "50",
+  "id": 3523,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/529d251696a0a&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/529d2509df889&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/529d24f7a776c&w=165"
+  ],
+  "location": "\n\nGreat moves on the arete left of a dihedral. Your height, or lack thereof, could break you on this one. \n\n\n"
+},{
+  "number": 23,
+  "name": "Guns 'n Beer",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3288",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 2.63,
+  "length": "50",
+  "id": 3524,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5e19392f3407e&w=165"
+  ],
+  "location": "\n\nThe low angle dihedral. \n\n\n"
+},{
+  "number": 24,
+  "name": "You Can't Piss on Hospitality",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2981",
+  "type": "Sport",
+  "grade": "5.7",
+  "stars": 3.19,
+  "length": "45",
+  "id": 3525,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5352ad0c0e3e0&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/53272fa145c2a&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/53272f9148f6d&w=165"
+  ],
+  "location": "\n\nClimb the brown streak, if it's dry, beginning left of a thin seam. Short lived but fun. \n\n\n"
+},{
+  "number": 25,
+  "name": "Nilbog Night Life",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3251",
+  "type": "Sport",
+  "grade": "5.9",
+  "stars": 2.85,
+  "length": "45",
+  "id": 3526,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54ae0192ef8d3&w=165"
+  ],
+  "location": "\n\nClimb the slab just right of a deep water groove. \n\n\n"
+},{
+  "number": 26,
+  "name": "Little T",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2756",
+  "type": "Sport",
+  "grade": "5.11b",
+  "stars": 3.57,
+  "length": "50",
+  "id": 3527,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5243b7793b92d&w=165"
+  ],
+  "location": "\n\nThis marginally featured arete may feel several grades harder for the finesse challenged climbers. \n\n\n"
+},{
+  "number": 27,
+  "name": "American Juggalo",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2757",
+  "type": "Sport",
+  "grade": "5.11b",
+  "stars": 3.07,
+  "length": "50",
+  "id": 3528,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5462db059b300&w=165"
+  ],
+  "location": "\n\nDon't be fooled by the name, there are no juggalos here. This line marks the start of several challenging slab climbs and the end of comprehensible route names. \n\n\n"
+},{
+  "number": 28,
+  "name": "patriotsquestion911.com",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2982",
+  "type": "Sport",
+  "grade": "5.11a",
+  "stars": 2.57,
+  "length": "50",
+  "id": 3529,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54d18a2bb41a9&w=165"
+  ],
+  "location": "\n\nBegins left of a large hueco. A more sustained angle than the bulge laden lines to the right. \n\n\n"
+},{
+  "number": 29,
+  "name": "ae911truth.org",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2983",
+  "type": "Sport",
+  "grade": "5.10b",
+  "stars": 3.16,
+  "length": "60",
+  "id": 3530,
+  "images": [],
+  "location": "\n\nGrab a nice, fat, square flake to get to the first bolt then shift right. Play around in a pair of huecos in the middle of the wall after which the angle kicks back a bit. These route names are cuckoo. \n\n\n"
+},{
+  "number": 30,
+  "name": "Rethink911.org",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2984",
+  "type": "Sport",
+  "grade": "5.10b",
+  "stars": 2.69,
+  "length": "55",
+  "id": 3531,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54d18a4f5e84a&w=165"
+  ],
+  "location": "\n\nMaybe the bolt placements should have been rethought too. Another slab climb with a cuckoo conspiracy theorist name. \n\n\n"
+},{
+  "number": 31,
+  "name": "Rememberbuilding7.org",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=2985",
+  "type": "Sport",
+  "grade": "5.10b",
+  "stars": 2.29,
+  "length": "50",
+  "id": 3532,
+  "images": [],
+  "location": "\n\nThe furthest route right at this time and thankfully the last route on the wall with propaganda laden names. Begin on an attached rock platform left of a fat, dirty flake. Probably the least best of the lines on this wall. \n\n\n"
+},{
+  "number": 32,
+  "name": "No Regrets",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3410",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 4,
+  "length": "55",
+  "id": 3533,
+  "images": [],
+  "location": "\n\nUber-techy dihedral leads to a burly crux above the roof. Move slightly right to some tiny invisible crimps and lock 'em down. \n\n\n"
+},{
+  "number": 33,
+  "name": "Balls to the Wall",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3448",
+  "type": "Sport",
+  "grade": "5.11b",
+  "stars": 3.75,
+  "length": "55",
+  "id": 3534,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5fe4b60957e98&w=165"
+  ],
+  "location": "\n\nInteresting face climbing just right of seam leads to a rest followed by a delicate crux at the top. \n \n\n"
+},{
+  "number": 34,
+  "name": "Geezer Pleaser",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3449",
+  "type": "Sport",
+  "grade": "5.10a",
+  "stars": 3.83,
+  "length": "45",
+  "id": 3535,
+  "images": [],
+  "location": "\n\nDespite the name, this is one of the best easier routes at Secret Garden. Leftmost route on black-streaked slab wall 100' right of�Balls to the Wall. \n\n\n"
+},{
+  "number": 35,
+  "name": "Los Two Brothers",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3450",
+  "type": "Sport",
+  "grade": "5.10b",
+  "stars": 3,
+  "length": "40",
+  "id": 3536,
+  "images": [],
+  "location": "\n\nStart from a boulder 15' right and uphill of�Geezer, 10' left of a steep dihedral. \n\n\n"
+},{
+  "number": 36,
+  "name": "Cornered",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3451",
+  "type": "Trad",
+  "grade": "5.11a",
+  "stars": 3,
+  "length": "40",
+  "id": 3537,
+  "images": [],
+  "location": "\n\nEasily toproped after climbing Los Two Brothers. Needs a bolt at the start to be a reasonable lead. \n\n\n"
+},{
+  "number": 37,
+  "name": "Inside Job",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3452",
+  "type": "Sport",
+  "grade": "5.10a",
+  "stars": 3.13,
+  "length": "65",
+  "id": 3538,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5f63b11bc0f5e&w=165"
+  ],
+  "location": "\n\nStick clip a ridiculously high first bolt to access this enjoyable long face just above a cave with some interesting bouldering potential. \n\n\n"
+},{
+  "number": 38,
+  "name": "Project",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3453",
+  "type": "Sport",
+  "grade": "Unknown",
+  "stars": null,
+  "length": "0",
+  "id": 3539,
+  "images": [],
+  "location": "\n\nEasy slab starting from a ledge system right of�Inside Job. Equipped by Mike Cook. \n\n\n"
+},{
+  "number": 39,
+  "name": "Controlled Demolition",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3411",
+  "type": "Sport",
+  "grade": "5.10b",
+  "stars": 3.23,
+  "length": "45",
+  "id": 3540,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/60a3f0fc50a44&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5f8ef398d6993&w=165"
+  ],
+  "location": "\n\nNice bouldery number on good rock left of the Gardener arete. \n\n\n"
+},{
+  "number": 40,
+  "name": "Constant Gardener",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3321",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 3.11,
+  "length": "45",
+  "id": 3541,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5f8ef3bb38bc7&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/553af2d22f77e&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/55386fbfdcf71&w=165"
+  ],
+  "location": "\n\nWalk 5 minutes right of the 911 Wall on a wide, meandering trail. This will eventually lead to a small gold wall. This route starts left of the obvious large ramp feature. Climb the overhanging pockets to a hueco. Pull around the corner and finish left of the arete. The contravity is high, but so is the fun. \n\n\n"
+},{
+  "number": 41,
+  "name": "Meat Hook",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3373",
+  "type": "Sport",
+  "grade": "5.11b",
+  "stars": 3.17,
+  "length": "40",
+  "id": 3542,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/55e45b1e0171c&w=165"
+  ],
+  "location": "\n\nThe short steep face right of Constant Gardener. \n \n\n"
+},{
+  "number": 11,
+  "name": "Booyah (Open Project)",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3281",
+  "type": "Sport",
+  "grade": "5.14",
+  "stars": 5,
+  "length": "95",
+  "id": 3234,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/54c6fe7b33b5a&w=165"
+  ],
+  "location": "\n\n50 feet of vertical climbing brings you to a no hands rest. Don't be deceived. Getting to the third bolt is brutal. From the rest the wall goes steep. Bring your 70 meter rope. \n\n\n"
+},{
+  "number": 1,
+  "name": "Penance",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3740",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": null,
+  "length": "55",
+  "id": 3563,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 2,
+  "name": "Impossible Dream- OPEN PROJ",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3741",
+  "type": "Sport",
+  "grade": "5.14",
+  "stars": null,
+  "length": "70",
+  "id": 3564,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8c3dbebbac&w=165"
+  ],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 3,
+  "name": "Dark Tourist",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3742",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": 4,
+  "length": "40",
+  "id": 3565,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc87d8eeda84&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc87d3d002b2&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc87c9332141&w=165"
+  ],
+  "location": "\n\nShort and steep arete at the beginning of the main wall. Begin with an unpleasant grovel over a low roof to gain the steep arete which climbs like an extended boulder problem. \n\n\n"
+},{
+  "number": 4,
+  "name": "Lotion In The Basket",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3743",
+  "type": "Sport",
+  "grade": "5.11d",
+  "stars": null,
+  "length": "35",
+  "id": 3566,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8c4a1d8775&w=165"
+  ],
+  "location": "\n\nLong reaches between pockets to start then a slopey boulder problem which makes it worth roping up for. \n\n\n"
+},{
+  "number": 5,
+  "name": "Skin Suit",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3744",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 2.6,
+  "length": "35",
+  "id": 3567,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8c4cce0fb4&w=165"
+  ],
+  "location": "\n\nA reach will help you on this one. Sparse feet in the crux and despite its height it may still pump you. \n\n\n"
+},{
+  "number": 6,
+  "name": "Summer School",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3745",
+  "type": "Sport",
+  "grade": "5.10c",
+  "stars": 3.44,
+  "length": "60",
+  "id": 3568,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8d0d52cf18&w=165"
+  ],
+  "location": "\n\nOne of the easier routes in the area but still not a great warmup due to the fingery moves down low. Get past the first few bolts and bigger holds lead to a bulge move near the top. \n\n \n"
+},{
+  "number": 7,
+  "name": "Mullet Over",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3746",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": null,
+  "length": "65",
+  "id": 3569,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8c6c56c14f&w=165"
+  ],
+  "location": "\n\nGain the ledge then make a long reach onto the face to meet up with a smack-down boulder problem with long reaches between edges and terrible feet. A handjam helps in the roof above. \n\n\n"
+},{
+  "number": 8,
+  "name": "Firestarter",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3747",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 4.2,
+  "length": "70",
+  "id": 3570,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8c6ffb017e&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8838c8b1eb&w=165"
+  ],
+  "location": "\n\nA dirty start gets you to a flake where the climbing begins. A long reach crux followed by a deadpoint stab leads to enjoyable and pumpy climbing on big holds. The anchors are straight up, not out left. \n\n\n"
+},{
+  "number": 9,
+  "name": "Ticks R For Kids",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3748",
+  "type": "Sport",
+  "grade": "5.12d",
+  "stars": null,
+  "length": "65",
+  "id": 3571,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc88ae2c3b99&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc87f4eaeba4&w=165"
+  ],
+  "location": "\n\nTough vertical face climbing to start followed by some of the largest bucket holds on the wall. The crux is pulling the roof and making it to the chains. \n\n\n"
+},{
+  "number": 10,
+  "name": "Wicked Greed (open project)",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3749",
+  "type": "Sport",
+  "grade": "5.13a",
+  "stars": null,
+  "length": "55",
+  "id": 3572,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc88a7ff1267&w=165"
+  ],
+  "location": "\n\nThe sparse link up of faint pockets and edges on gold stone which trends the right side of the roof near the top. Grade is estimated. \n\n\n"
+},{
+  "number": 11,
+  "name": "Bury me Deep",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3750",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": null,
+  "length": "65",
+  "id": 3573,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8c55d0d451&w=165"
+  ],
+  "location": "\n\nGiant wraparound holds are broken up by a set of large and shallow huecos. \n\n\n"
+},{
+  "number": 12,
+  "name": "School of Hard Fox",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3751",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": 4,
+  "length": "65",
+  "id": 3574,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8c5aa9afdc&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc87fd1382c9&w=165"
+  ],
+  "location": "\n\nA moderate face leads to wrap around jugs after which a sustained 4 bolts of tough climbing begins. A kneebar at the last bolt eases the clipping difficulty. \n\n\n"
+},{
+  "number": 13,
+  "name": "Blackfly",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3753",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": 3,
+  "length": "65",
+  "id": 3575,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8c5db168c7&w=165"
+  ],
+  "location": "\n\nA dirty flake leads to a large ledge directly beneath a gorgeous spine like feature. A difficult fight through crimps left of the \"spine\" gets you to delectable pinches and slopers in steep rock. A tough anchor clip takes this down a notch in quality. \n\n\n"
+},{
+  "number": 14,
+  "name": "Bleacher Bums",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3754",
+  "type": "Sport",
+  "grade": "5.12+",
+  "stars": null,
+  "length": "65",
+  "id": 3576,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8c6283cf77&w=165"
+  ],
+  "location": "\n\nA few moves off the ground and you're on gigantic bricks which quickly give way to sustained sloper slapping and pinching. The business is going to the chains. \n\n\n"
+},{
+  "number": 15,
+  "name": "Hollow Dreams",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3755",
+  "type": "Sport",
+  "grade": "5.11c",
+  "stars": 4,
+  "length": "70",
+  "id": 3577,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8c65cc055a&w=165"
+  ],
+  "location": "\n\nA big throw down low guards the remainder of this climb which meanders to the right past some reachy clips. A sneaky knee bar helps near the top before the pump crux. \n \n\n"
+},{
+  "number": 1,
+  "name": "Da Udder Crack",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3772",
+  "type": "Trad",
+  "grade": "5.8",
+  "stars": 3,
+  "length": "0",
+  "id": 3545,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5c143f76bebe5&w=165"
+  ],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 2,
+  "name": "Heifers in Heat",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3773",
+  "type": "Trad",
+  "grade": "5.9+",
+  "stars": 3,
+  "length": "0",
+  "id": 3546,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5c14400de9ebd&w=165"
+  ],
+  "location": "\n\n \n \n\n"
+},{
+  "name": "Pepper Wall Proj 2",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3885",
+  "type": "Sport",
+  "stars": null,
+  "length": "90",
+  "id": 3548,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 1,
+  "name": "Wet Willy",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3722",
+  "type": "Sport",
+  "grade": "5.9",
+  "stars": 3,
+  "length": "50",
+  "id": 3549,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 2,
+  "name": "Wind In The Willows",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3723",
+  "type": "Sport",
+  "grade": "5.10c",
+  "stars": 3,
+  "length": "35",
+  "id": 3550,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8cccb39f63&w=165"
+  ],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 3,
+  "name": "Ponderosa Pine",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3724",
+  "type": "Sport",
+  "grade": "5.10d",
+  "stars": 3.64,
+  "length": "35",
+  "id": 3551,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8cc9334da2&w=165"
+  ],
+  "location": "\n\n\n\n \n"
+},{
+  "number": 4,
+  "name": "Polly Ticker",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3725",
+  "type": "Trad",
+  "grade": "5.10a",
+  "stars": 3,
+  "length": "50",
+  "id": 3552,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8cced12692&w=165"
+  ],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 5,
+  "name": "Prism",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3726",
+  "type": "Sport",
+  "grade": "5.12a",
+  "stars": 4.33,
+  "length": "55",
+  "id": 3553,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8ca071f0a4&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc89abf5494a&w=165"
+  ],
+  "location": "\n\nOne of the best routes on the wall. Begin on the low ledge and immediately dive into sustained pocket and edge climbing with barely a shake before the final moves to the clipping hold. \n\n\n"
+},{
+  "number": 6,
+  "name": "Fire In The Rain",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3727",
+  "type": "Sport",
+  "grade": "5.12+",
+  "stars": null,
+  "length": "60",
+  "id": 3554,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8ca3373de5&w=165"
+  ],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 7,
+  "name": "The Brethern",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3728",
+  "type": "Sport",
+  "grade": "5.13-",
+  "stars": 3,
+  "length": "65",
+  "id": 3555,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8ca7c1e614&w=165"
+  ],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 8,
+  "name": "Bookends",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3729",
+  "type": "Sport",
+  "grade": "5.13a",
+  "stars": 3,
+  "length": "75",
+  "id": 3556,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8caf239795&w=165"
+  ],
+  "location": "\n\nFirst line on the left side of the cave. Great climbing sandwiched by cruxes. \n\n\n"
+},{
+  "number": 9,
+  "name": "Omar Comin",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3730",
+  "type": "Sport",
+  "grade": "5.13d",
+  "stars": 3,
+  "length": "75",
+  "id": 3557,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8cb4051a8e&w=165"
+  ],
+  "location": "\n\nSustained sequences on pockets and a sneaky redpoint crux. \n\n\n"
+},{
+  "number": 10,
+  "name": "Best Not Miss",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3731",
+  "type": "Sport",
+  "grade": "5.13b",
+  "stars": 4,
+  "length": "80",
+  "id": 3558,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8cb66e6955&w=165"
+  ],
+  "location": "\n\nDon't miss the crux stab for the pocket in the low crux and have a plan for the gravel road section \n\n\n"
+},{
+  "number": 11,
+  "name": "Taltos",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3732",
+  "type": "Sport",
+  "grade": "5.13d",
+  "stars": 4,
+  "length": "75",
+  "id": 3559,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8cb89cc7d0&w=165"
+  ],
+  "location": "\n\nSequential boulders of varying styles \n\n\n"
+},{
+  "number": 12,
+  "name": "Pepper Wall Proj",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3883",
+  "type": "Sport",
+  "stars": null,
+  "length": "0",
+  "id": 3560,
+  "images": [],
+  "location": "\n\n \n\n\n"
+},{
+  "number": 13,
+  "name": "The Crown",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3884",
+  "type": "Sport",
+  "grade": "5.14b",
+  "stars": null,
+  "length": "90",
+  "id": 3561,
+  "images": [],
+  "location": "\n\n \n\n\n"
+},{
+  "number": 1,
+  "name": "Split Pea Soup-closed",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3733",
+  "type": "Sport",
+  "grade": "5.12a",
+  "stars": null,
+  "length": "45",
+  "id": 3579,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 2,
+  "name": "Finesse Express",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3734",
+  "type": "Sport",
+  "grade": "5.13a",
+  "stars": null,
+  "length": "45",
+  "id": 3580,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8d01396422&w=165"
+  ],
+  "location": "\n\n\n\n \n"
+},{
+  "number": 3,
+  "name": "Cougar",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3735",
+  "type": "Sport",
+  "grade": "5.12c",
+  "stars": 3.33,
+  "length": "35",
+  "id": 3581,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8cfdca0fce&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8cf8020d4f&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8845fbb73e&w=165",
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8843553f47&w=165"
+  ],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 4,
+  "name": "Voyager",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3736",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": null,
+  "length": "35",
+  "id": 3582,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8ce9f4246f&w=165"
+  ],
+  "location": "\n\n \n\n\n"
+},{
+  "number": 5,
+  "name": "Spring Clean (open project)",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3737",
+  "type": "Sport",
+  "stars": null,
+  "length": "35",
+  "id": 3583,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8ce75410aa&w=165"
+  ],
+  "location": "\n\nBolted by Kipp Trummel \n\n\n"
+},{
+  "number": 6,
+  "name": "Mixtress",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3738",
+  "type": "Trad",
+  "grade": "5.11a",
+  "stars": null,
+  "length": "35",
+  "id": 3584,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8cd793ddda&w=165"
+  ],
+  "location": "\n\n\n \n\n"
+},{
+  "number": 7,
+  "name": "Sojourner",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3739",
+  "type": "Sport",
+  "grade": "5.12b",
+  "stars": null,
+  "length": "40",
+  "id": 3585,
+  "images": [
+    "https://www.redriverclimbing.com/RRCGuide/phpThumb.php?src=img/5bc8cdeb3ce81&w=165"
+  ],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 11,
+  "name": "Wyatt Earp",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3757",
+  "type": "Sport",
+  "grade": "Unknown",
+  "stars": null,
+  "length": "55",
+  "id": 3586,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 12,
+  "name": "Lonesome Dove",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3758",
+  "type": "Sport",
+  "grade": "Unknown",
+  "stars": null,
+  "length": "45",
+  "id": 3587,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 13,
+  "name": "Plum Fairy-not sent",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3759",
+  "type": "Sport",
+  "grade": "Unknown",
+  "stars": null,
+  "length": "40",
+  "id": 3588,
+  "images": [],
+  "location": "\n\n\n\n\n"
+},{
+  "number": 14,
+  "name": "Apple Fritter",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3760",
+  "type": "Sport",
+  "grade": "Unknown",
+  "stars": null,
+  "length": "45",
+  "id": 3589,
+  "images": [],
+  "location": "\n\n \n\n\n"
+},{
+  "number": 8,
+  "name": "Jesse James",
+  "url": "https://www.redriverclimbing.com/RRCGuide/?type=route&id=3756",
+  "type": "Sport",
+  "grade": "Unknown",
+  "stars": 5,
+  "length": "65",
+  "id": 3590,
   "images": [],
   "location": "\n\n\n\n\n"
 }]
